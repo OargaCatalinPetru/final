@@ -44,7 +44,7 @@ function alert(){
   let alertContainer=document.getElementById('alert')
   alertContainer.style.display='flex'  
   let alertMsg=document.getElementById('alert_msg')
-  alertMsg.innerHTML=`Producto eliminado`
+  alertMsg.innerHTML=`Product deleted`
   setTimeout(()=>{
     alertContainer.style.display='none'   
 
@@ -94,8 +94,8 @@ function renderTable(productos){
     <td>${producto.descuento}</td>
     <td> 
       <div class='icons_container'>
-        <button onclick={handleEdit('${producto.id}')} class='edit'><img src='/Img/dashboard/editIcon.png' ></button>
-        <button onclick={openModal('${producto.id}')}  class='delete'><img src='/Img/dashboard/deleteIcon.png' ></button>        
+        <button onclick={handleEdit('${producto.id}')} class='edit'><img src='./Img/dashboard/editIcon.png' ></button>
+        <button onclick={openModal('${producto.id}')}  class='delete'><img src='./Img/dashboard/deleteIcon.png' ></button>        
       </div>    
     </td>
     
