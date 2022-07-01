@@ -92,7 +92,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
   priceElement.innerHTML=`$${productDetail.descuento ? productDetail.price * 0.8 : productDetail.price}`
   imageElement.src=`${productDetail.image ? productDetail.image.url : productDetail.imageFromDash}`
   descriptionElement.innerText=`${productDetail.description}`
-  rateElement.src=`/Img/ratestar${productDetail.rate}.png`
+  rateElement.src=`./Img/ratestar${productDetail.rate}.png`
   quantityElement.innerText=`${quantity}`
   totalPriceElement.innerText=`$${productDetail.descuento ? totalPrice * 0.8 : totalPrice }`
 })
