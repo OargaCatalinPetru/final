@@ -1,0 +1,232 @@
+/* body{
+  background-color: #fff !important; 
+} */
+.sidebar{
+  height: 100vh;
+  position: fixed;
+  
+}
+.form_container{
+  width: 600px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+ 
+  
+}
+.title{
+  text-align: center;
+  margin: 0;
+}
+.title h1{
+  margin: 15px 0 15px 0 ;
+}
+.form_container form {
+  display: flex;
+  flex-direction: column;  
+  width: 100%;
+  margin: 0;
+  background: rgb(255, 255, 255);
+  padding: 30px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+.form_container label{
+  margin: 10px 0 10px 5px;
+  font-size: 12px;
+}
+.form_container input{
+  border: none;
+  height: 25px;
+  border-radius: 2px;
+  color: rgb(51, 55, 64);
+  background-color: transparent;  
+  border: 1px solid rgb(227, 233, 243);
+  margin: 0;
+  padding-left: 10px;
+}
+.form_container textarea{
+  border: none;
+  height: 130px;
+  border: 1px solid rgb(227, 233, 243);
+  border-radius: 5px;
+  background: rgb(255, 255, 255);
+  font-family: 'Roboto', sans-serif;
+ 
+  margin: 0;
+  padding-left: 10px;
+}
+.form_container button{
+  border: none;
+  height: 40px;
+  margin-top: 10px;
+  width: 100%;
+  color: #fcf8f4;
+  background-color: #0b3168;
+  border-radius: 5px;
+  font-weight: 500;
+  font-size: 20px;
+  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
+}
+.form_container button:hover{
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
+}
+.nombrePrecio{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+ 
+}
+.nombrePrecio input{
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 250px;
+}
+.nombrePrecio label{
+  margin-left: 5px;
+ 
+}
+.stockRate{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+.stockRate input{
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 225px;
+}
+.stockRate label{
+  margin-left: 5px;
+  margin-right: 13px;
+ 
+}
+
+.categoriaCheckbox{
+  display: flex;
+  margin-bottom: 10px;
+}
+.categoriaCheckbox label{
+  margin-right: 10px;
+}
+.categoria {
+  width: 211px;
+}
+/* .categoriaCheckbox input {
+  width: 211px;
+  
+} */
+.checkbox {
+  display: flex;
+  margin:0 0 0 0px;
+  
+}
+.checkbox label{
+  margin-left: 18px;
+  margin-right: 10px;
+}
+.checkbox input{
+  width: 20px;
+  box-shadow: none !important;
+  margin-right: 10px;
+  margin-left: 10px;
+  
+ 
+  
+}
+.image{
+  display: flex;
+  width: 100%;
+  justify-content: left;
+  align-items: center;
+  margin: 0;  
+ 
+}
+.image img{
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+  margin-right: 7px;
+  margin-left:10px;
+  
+}
+.image p{
+  font-size: 12px;
+}
+.image input{
+  opacity: 0;
+  width: 0.1px;
+  height: 0.1px;
+  position: absolute;
+}
+.image label{
+  display: flex;
+  align-items: center;
+  width: 175px;
+  padding: 3px;
+  margin: 20px 0;
+  border-radius: 10px;
+  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
+  color: aliceblue;
+  background-color: #0b3168;
+}
+
+#btn img{
+  width: 20px;
+  margin-top: 5px;
+}
+
+.alert{
+  display:none;
+  background-color:  #c5fac5;
+  width: 400px;
+  height: 65px;  
+  justify-content: left ;
+  align-items: center;
+  border-radius: 3px;
+  margin: 5px auto;
+  position: fixed;
+  z-index: 101;
+  
+  left: 0;
+  right: 0;
+  bottom: 0;
+  box-shadow: 0 5px 8px rgba(183, 185, 192, 0.3);
+  animation: fadeIn 0.3s;
+  margin-bottom: 20px;
+}
+.alert img{
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+  margin-left: 20px;
+}
+#img-id{
+  max-width: 200px;
+  margin: auto;
+  margin-top: 20px;
+  min-height: 200px;
+  object-fit: cover;
+}
+
+select{
+  border: 1px solid rgb(227, 233, 243);
+  height: 29px;
+  border-radius: 2px;
+  padding-left: 5px;
+  
+}
+
+@media screen and (min-width: 1920px){
+  .form_container{
+    width: 900px;  
+    
+  }
+  .nombrePrecio input , .stockRate input {
+    
+    width: 100%;
+  }
+  .categoria {
+    width: 360px;
+  }
+
+}

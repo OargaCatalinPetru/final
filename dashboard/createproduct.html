@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;1,100;1,300&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../styles/global_style.css">
+    <link rel="stylesheet" href="sidebar.css">
+    <link rel="stylesheet" href="./createProduct/createproduct.css">
+ 
+  <title>Admin</title>
+</head>
+<body>
+  <div>
+
+ 
+  <div class='main_container'>
+    <div class='sidebar'>
+      <div>
+
+      </div>
+      <h5>ADMIN</h5>
+      <ul>
+        <li>        
+          <a href="/dashboard.html">Products</a>         
+        </li>
+      
+        <li class='current'>
+           Add Product  
+        </li>
+      </ul>
+      </ul>
+    </div>
+    <div class='form_container'> 
+      <div class='title'>
+
+        <h1>Create product</h1>
+      </div>
+       <form action="" id='form'>
+        <div class='nombrePrecio'>
+           <label for="">Name</label>
+           <input type="text" id='nombre'>      
+           <label for="">Price</label>
+           <input type='number' id='precio'>
+        </div>        
+        <div class='stockRate'>
+          <label for="">Stock</label>
+          <input type="number" id='stock'>
+          <label for="">Rate</label>
+          <input type="number" id='rate'>
+        </div>
+        <div class='categoriaCheckbox'>
+          <label style="display:none" for="">Category</label>
+          <input style="display:none" class='categoria' type="text" id='categoria' value="Tshirts">
+          <div class='checkbox'>
+            <label for="">Discount </label>
+            <input type="checkbox" id='descuento' >
+            <label for="">New </label>
+            <input type="checkbox" id='novedad' >         
+          </div>
+        </div>
+        <label for="">Description</label>
+        <textarea type="textarea" id='descripcion' rows="5" cols="70"></textarea>
+        <label style="display:none" for="">Short description</label>
+        <input style="display:none" type="text" id='descritpionCorta'>
+        <img id='img-id' src='../Img/dashboard/imageprev.png'>              
+        <div class='image'>
+            
+              <input type="file" id="file" name="img" accept="image/*">
+              <label for="file">
+                <img src="../Img/dashboard/upload.png" alt="">
+                <p>Select image</p>
+              </label>
+                       
+        </div>
+        <button type='submit' id='btn'>
+          Create
+        </button>       
+      </form>
+    </div>
+    <div class='alert' id='alert'>
+      <p id='alert_msg'></p>
+    </div>
+  </div>
+  </div> 
+  <script src="./createProduct/createproducts.js"></script>
+</body>
+</html>

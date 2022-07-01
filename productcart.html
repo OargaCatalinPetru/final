@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" sizes="32x32" href="./Img/favicon-32x32.png">
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;1,100;1,300&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./styles/sidebar.css" />
+    <link rel="stylesheet" href="./styles/navbarShort.css" />
+    <link rel="stylesheet" href="./styles/global_style.css" />
+    <link rel="stylesheet" href="./productCart/productCart.css" />
+
+  
+    
+    <title>Outlet</title>
+  </head>
+  <body>  
+    <div class="nav-small" >
+      <ul>
+           <li>
+            <a  href='index.html'>Home</a>
+          </li>
+          <li>
+            <a href="dashboard.html">Admin</a>
+          </li>
+          <li>            
+            <a  href="index.html"> Products</a>        
+          </li>               
+      </ul>
+  </div>
+   
+  <div class="container">      
+    <div class="nav__container">
+    <nav class="navbar__content">
+      
+      <a class="pseudo" href="/dashboard.html">Admin</a>
+      <a class="pseudo" href="/index.html"> Products</a>     
+      <button class='nav_btn' id='nav_btn'>
+        <div class='cart_quantity_container'> 
+          <p id='cart_quantity'>0</p>
+        </div>
+        <img  src="./Img/cart.png" alt="" /> 
+      </button>     
+    </nav>
+  </div>
+
+  <div class='main_container' id='main_container'>
+    <div class='cart_main_container' id='cart_main_container'>
+                
+    </div>
+    
+      <div class='cart_detail' id='cart_detail'>
+        <h2>Summary</h2>
+        <h4 id='cart_detail_quantity'>Quantity : 1</h4>
+        <h4 id='cart_detail_total'>Total: $1000</h4>
+        <button id='comprar_btn'>Buy</button>
+      </div>
+    </div> 
+    <div class='cart_empty' id='cart_empty'>
+      <h1>No products in cart</h1>
+    </div>
+      
+  </div>
+ 
+    <script src="./productCart/productCart.js"></script>
+    <script src="./index/mainpage.js"></script>
+  </body>
+</html>

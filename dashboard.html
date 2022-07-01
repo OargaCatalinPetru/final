@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/styles/global_style.css">
+  <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;1,100;1,300&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" type="image/png" sizes="32x32" href="./Img/favicon-32x32.png">
+    <link rel="stylesheet" href="./dashboard/dashboard.css">
+    <link rel="stylesheet" href="./dashboard/sidebar.css">
+  <title>Admin</title>
+</head>
+<body>
+  <div class='main_container'>
+    <div class='sidebar'>
+      <div>
+      </div>
+      <h5>ADMIN</h5>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li class='current'>Products</li>
+        <li>
+          <a href="/dashboard/createproduct.html">Add Product</a>  
+        </li>
+      </ul>
+    </div>
+    <div class='noLoading' id="loading">
+      <img src="./Img/dashboard/loading.gif" alt="">
+    </div>
+   <div class='table_container'>
+     
+    <table class="table" id='table'>
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Name</th>
+          <th scope="col">Price</th>
+          <th scope="col">Stock</th>     
+          <th scope="col">Category</th>      
+          <th scope="col">Rate</th>
+          <th scope="col">New</th>
+          <th scope="col">Discount</th>
+          <th scope="col">Options</th>          
+        </tr>
+      </thead>
+      <tbody id='tbody'>
+       
+      </tbody>
+    </table>
+   </div>
+  </div>
+  <div id="myModal" class="modal">   
+   <div class="modal-content">
+     <span class="close">&times;</span>
+     <p>Remove product?</p>
+     <hr>
+     <button id='siBtn'>Yes</button>
+     <button id='noBtn'>No</button>
+   </div>
+   
+  </div> 
+  <div class='alert' id='alert'>
+    <p id='alert_msg'></p>
+  </div>
+  
+  <script src="./dashboard/dashboard.js"></script>
+</body>
+</html>
