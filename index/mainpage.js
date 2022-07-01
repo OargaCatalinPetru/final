@@ -86,7 +86,7 @@ function createCard(product, gallery){
   <img src=${product.image ? product.image.url : product.imageFromDash ? product.imageFromDash : '/Img/notfound.png'} />
   <h3>${product.title}</h3>
   <div class='star__container'>
-      <img  src='Img/ratestar${product.rate}.png'>
+      <img  src='./Img/ratestar${product.rate}.png'>
   </div>
   <hr />
   <div class="price_container">    
@@ -170,7 +170,7 @@ function showMore(products, card, id){
   if (!open){
     let titleContainer= document.getElementById('mostrarMas__Title')
     let imgContainer=document.getElementById(id +1)
-    imgContainer.src='/Img/arrowUp.png'
+    imgContainer.src='./Img/arrowUp.png'
     titleContainer.innerHTML='Show less'
     products.slice(4,8).forEach((product) => {   
       createCard(product, card)
@@ -179,8 +179,8 @@ function showMore(products, card, id){
   }else{
     let titleContainer= document.getElementById('mostrarMas__Title')
     let imgContainer=document.getElementById(id + 1)
-    imgContainer.src='/Img/arrowDown.png'
-    titleContainer.innerHTML='Mostrar Mas'
+    imgContainer.src='./Img/arrowDown.png'
+    titleContainer.innerHTML='Show more'
     let cardsContainer=document.getElementById(id).getElementsByClassName("content")    
     while (cardsContainer.length > 0) {
       cardsContainer[0].parentNode.removeChild(cardsContainer[0]);
@@ -212,7 +212,7 @@ function createProduct(products, id,titleContent) {
   let imgId=id + 1
   btnMore.innerHTML = `
   <h4 id='mostrarMas__Title'>Show more</h4>
-  <img id=${imgId} src="/Img/arrowDown.png" alt="" />
+  <img id=${imgId} src="./Img/arrowDown.png" alt="" />
   `;
   if(products.length >3){
     seeMoreBtn.appendChild(btnMore);
