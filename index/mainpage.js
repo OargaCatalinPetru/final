@@ -86,7 +86,7 @@ function createCard(product, gallery){
   <img src=${product.image ? product.image.url : product.imageFromDash ? product.imageFromDash : '/Img/notfound.png'} />
   <h3>${product.title}</h3>
   <div class='star__container'>
-      <img  src='/Img/ratestar${product.rate}.png'>
+      <img  src='./Img/ratestar${product.rate}.png'>
   </div>
   <hr />
   <div class="price_container">    
