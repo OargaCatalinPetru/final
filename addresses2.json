@@ -1,7 +1,7 @@
 [
   {
     "name": "A & C CONSTRUCT SRL",
-    "address": "Str. Patriciu Barbu 17 ,Cluj-Napoca",
+    "address": "Str. Patriciu Barbu Nr. 17,Cluj-Napoca",
     "phone": "0751 115 645",
     "mail": "szantocristian@yahoo.com",
     "lat": 46.7840667,
@@ -1305,7 +1305,7 @@
   },
   {
     "name": "WEBERBAU CONS SRL",
-    "address": "Str. Fagului nr 60,Cluj-Napoca",
+    "address": "Str. Fagului nr. 60,Cluj-Napoca",
     "phone": "0722 703 447",
     "mail": "office@weberbau.ro",
     "lat": 46.7548514,
@@ -1320,7 +1320,7 @@
     "lon": 23.2889231
   },
   {
-    "name": "YCON SRL",
+    "name": "YCON SRL Târgu Mures",
     "address": "Str. Milcovului Nr. 24,Târgu Mures",
     "phone": "0724096885",
     "mail": "yconsrl@yahoo.com",
@@ -1328,7 +1328,7 @@
     "lon": 24.5421137
   },
   {
-    "name": "YCON SRL",
+    "name": "YCON SRL Sangeorgiu de Mures",
     "address": "Str. Borzas Nr. 1082,Sângeorgiu de Mures",
     "phone": "0771552631",
     "mail": "yconsrl@yahoo.com",
@@ -1360,7 +1360,7 @@
     "lon": 25.9220019
   },
   {
-    "name": "ARABESQUE SRL",
+    "name": "ARABESQUE SRL Galati",
     "address": "Str. Timisului Nr. 1, Galati",
     "phone": "0744 344 991",
     "mail": "antoaneta.orban@arabesque.ro",
@@ -1368,7 +1368,7 @@
     "lon": 28.0251314
   },
   {
-    "name": "ARABESQUE SRL",
+    "name": "ARABESQUE SRL Chitila",
     "address": "Str. Rudeni 107 - 109,Chitila",
     "phone": "0744 344 991",
     "mail": "chimice.otopoeni@hasit.ro",
@@ -1376,7 +1376,7 @@
     "lon": 25.9874132
   },
   {
-    "name": "ARABESQUE SRL",
+    "name": "ARABESQUE SRL Baia Mare",
     "address": "Bd. Independentei Nr. 80,Baia Mare",
     "phone": "0752 096 164",
     "mail": "CHIMICE.MM@ARABESQUE.RO",
@@ -1384,7 +1384,7 @@
     "lon": 23.5167777
   },
   {
-    "name": "ARABESQUE SRL",
+    "name": "ARABESQUE SRL Brasov",
     "address": "Str. Bucegi Nr. 1,Brasov",
     "phone": "0740 119 144",
     "mail": "CHIMICE.BV@ARABESQUE.RO",
@@ -1392,7 +1392,7 @@
     "lon": 25.5452255
   },
   {
-    "name": "ARABESQUE SRL",
+    "name": "ARABESQUE SRL Constanta",
     "address": "B-dul Aurel Vlaicu Nr. 171,Constanta",
     "phone": "0743 009 545",
     "mail": "chimice.ct@arabesque.ro",
@@ -1400,7 +1400,7 @@
     "lon": 28.6236467
   },
   {
-    "name": "ARABESQUE SRL",
+    "name": "ARABESQUE SRL Deva",
     "address": "Str. Dorobantilor Nr. 34,Deva",
     "phone": "0757 066 283",
     "mail": "chimice.hd@arabesque.ro",
@@ -1408,7 +1408,7 @@
     "lon": 22.9205262
   },
   {
-    "name": "ARABESQUE SRL",
+    "name": "ARABESQUE SRL Galati",
     "address": "Str. Drumul de Centura Nr. 39,Galati",
     "phone": "0746 255 372",
     "mail": "chimice.gl@arabesque.ro",
@@ -1416,7 +1416,7 @@
     "lon": 28.0048185
   },
   {
-    "name": "ARABESQUE SRL",
+    "name": "ARABESQUE SRL Ploiesti",
     "address": "Str. Poligonului Nr. 5,Ploiesti",
     "phone": "0749 161 705",
     "mail": "CHIMICE.PH@ARABESQUE.RO",
@@ -1424,15 +1424,7 @@
     "lon": 25.9961155
   },
   {
-    "name": "ARABESQUE SRL",
-    "address": "Str. Poligonului Nr. 5,Ploiesti",
-    "phone": "0749 161 705",
-    "mail": "CHIMICE.PH@ARABESQUE.RO",
-    "lat": 44.9489606,
-    "lon": 25.9961155
-  },
-  {
-    "name": "ARABESQUE SRL",
+    "name": "ARABESQUE SRL Suceava",
     "address": "Str. Vuia Traian Nr.17,Suceava",
     "phone": "0747 501 108",
     "mail": "MARIUS.CIMPAN@ARABESQUE.RO",
@@ -1440,7 +1432,7 @@
     "lon": 26.2474627
   },
   {
-    "name": "ARABESQUE SRL",
+    "name": "ARABESQUE SRL Târgu Mureș",
     "address": "Str. Barajului Nr. 3,Târgu Mures",
     "phone": "0754 058 405",
     "mail": "CHIMICE.MS@ARABESQUE.RO",
