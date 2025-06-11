@@ -1,0 +1,2464 @@
+[
+  {
+    "name": "A & C CONSTRUCT SRL",
+    "address": "Str. Patriciu Barbu Nr. 17,Cluj-Napoca",
+    "phone": "0751 115 645",
+    "email": "szantocristian@yahoo.com",
+    "lat": 46.7840667,
+    "lon": 23.60672
+  },
+  {
+    "name": "A.S. COLOR IMPORT EXPORT SRL",
+    "address": "Str. Orizontului nr. 1,Pantelimon",
+    "phone": "0732 007 853",
+    "email": "georgiana.preda@ascolor.ro",
+    "lat": 44.4476421,
+    "lon": 26.2263043
+  },
+  {
+    "name": "ABS DECOR SRL",
+    "address": "Str. Dragos Voda nr. 18,Deva",
+    "phone": "0722 451 516",
+    "email": "absdecorsrl@yahoo.com",
+    "lat": 45.8739215,
+    "lon": 22.9059138
+  },
+  {
+    "name": "ABT TOP CONSTRUCT SRL",
+    "address": "Str. Cuza Voda nr. 20,Viisoara",
+    "phone": "0744 602 228",
+    "email": "abttopconstructsrl@gmail.com",
+    "lat": 46.9413242,
+    "lon": 26.2780422
+  },
+  {
+    "name": "ADE-COM COMPANY SRL",
+    "address": "Str. Codrul Cosminului nr. 27,Brasov",
+    "phone": "(0721) 282 463",
+    "email": "office@adecomgroup.ro",
+    "lat": 45.6625937,
+    "lon": 25.6040864
+  },
+  {
+    "name": "AGREVO SRL",
+    "address": "Str. Eroilor nr. 23,Corod",
+    "phone": "",
+    "email": "epifania.savastre@yahoo.com",
+    "lat": 45.9577805,
+    "lon": 27.6539792
+  },
+  {
+    "name": "ALEXANDRU CO SRL",
+    "address": "Str. Milcov nr. 47,Magurele",
+    "phone": "(0722) 166 927",
+    "email": "alexandrucosrl2@gmail.com",
+    "lat": 44.349894,
+    "lon": 26.0240854
+  },
+  {
+    "name": "ALEXOR GROUP TRADE SRL",
+    "address": "Str. Plevnei nr. 11,Caracal",
+    "phone": "0742 202 007",
+    "email": "alexor.group@yahoo.com",
+    "lat": 44.1131687,
+    "lon": 24.3530078
+  },
+  {
+    "name": "ANDADI COMPANY SRL",
+    "address": "Str. Republicii bl.111,Petrila",
+    "phone": "0736.569.517",
+    "email": "andadi70@gmail.com",
+    "lat": 45.4467998,
+    "lon": 23.4121377
+  },
+  {
+    "name": "APC UNIVERSAL PARTNER SRL",
+    "address": "Str. Strada Baratilor nr. 2,Sighisoara",
+    "phone": "0752 043 468",
+    "email": "pavel.pop@ambientsighisoara.ro",
+    "lat": 46.2219542,
+    "lon": 24.827792
+  },
+  {
+    "name": "APC UNIVERSAL PARTNER SRL",
+    "address": "Strada Turda nr. 15,Sibiu",
+    "phone": "0752.043 381",
+    "email": "cristina.neamtu@apc-up.ro",
+    "lat": 45.7955697,
+    "lon": 24.1063232
+  },
+  {
+    "name": "APC UNIVERSAL PARTNER SRL",
+    "address": "Str. Beclean Nr. 314,Odorheiu Secuiesc",
+    "phone": "",
+    "email": "daniel.orban@ambientbistrita.ro",
+    "lat": 46.3315609,
+    "lon": 25.335729
+  },
+  {
+    "name": "APREX AUTO SRL",
+    "address": "Str. Atelierelor Nr. 10,Moinesti",
+    "phone": "(0740) 791 665",
+    "email": "aprexauto@yahoo.com",
+    "lat": 46.4764221,
+    "lon": 26.4956205
+  },
+  {
+    "name": "ARABESQUE SRL",
+    "address": "Calea Sagului Nr. 205,Timisoara",
+    "phone": "0743 499 101",
+    "email": "CHIMICE.TM@ARABESQUE.RO",
+    "lat": 45.6846889,
+    "lon": 21.169145
+  },
+  {
+    "name": "ARABESQUE SRL Sibiu",
+    "address": "Str. Sos. Alba Iulia Nr. 112, Sibiu",
+    "phone": "0757 079 277",
+    "email": "CHIMICE.SB@ARABESQUE.RO",
+    "lat": 45.79003111231902,
+    "lon": 24.08687971315229
+  },
+  {
+    "name": "ARABESQUE SRL Arges",
+    "address": "Comuna Bradu, DN 65B, Pitesti",
+    "phone": "0754 058 444",
+    "email": "CHIMICE.AG@ARABESQUE.RO",
+    "lat": 44.816000,
+    "lon": 24.940200
+  },
+  {
+    "name": "ARABESQUE SRL Bihor",
+    "address": "Calea Santandrei Nr. 3A, Oradea",
+    "phone": "0746 030 215",
+    "email": "CHIMICE.BH@ARABESQUE.RO",
+    "lat": 47.048000,
+    "lon": 21.895700
+  },
+  {
+    "name": "ARABESQUE SRL Iasi",
+    "address": "Str. Industriilor Nr. 1, Sat Uricani, Iasi",
+    "phone": "0743 066 607",
+    "email": "MARIAN.MOROSAN@ARABESQUE.RO",
+    "lat": 47.179500,
+    "lon": 27.475500
+  },
+  {
+    "name": "ARABESQUE SRL Focsani",
+    "address": "Sos. Vrancei km 3, Odobesti, Focsani",
+    "phone": "0757 012 033",
+    "email": "CHIMICE.VN@ARABESQUE.RO",
+    "lat": 45.716600,
+    "lon": 27.162800
+  },
+  {
+    "name": "ARABESQUE SRL Craiova",
+    "address": "B-dul Decebal Nr. 111A, Craiova",
+    "phone": "0740 039 629",
+    "email": "FLORIN.UNGUREANU@DJ.ARABESQUE.RO",
+    "lat": 44.3005306,
+    "lon": 23.8343464
+  },
+  {
+    "name": "ARABESQUE SRL Cluj",
+    "address": "Str. Calea Floresti Nr. 147-153, Cluj-Napoca",
+    "phone": "0757 571 970",
+    "email": "CHIMICE.CJ@ARABESQUE.RO",
+    "lat": 46.754700,
+    "lon": 23.537600
+  },
+  {
+    "name": "ARABESQUE SRL Buzau",
+    "address": "Str. Soseaua Nordului Nr. 12A, Buzau",
+    "phone": "0744 647 424",
+    "email": "CHIMICE.BZ@ARABESQUE.RO",
+    "lat": 45.172000,
+    "lon": 26.812100
+  },
+  {
+    "name": "ART PAINTWORKS SRL",
+    "address": "Str. Timotei Cipariu Nr. 2,Sibiu",
+    "phone": "0748 101 387",
+    "email": "laurentiu.patrichi@vopselelavabile.com",
+    "lat": 45.7715023,
+    "lon": 24.1241173
+  },
+  {
+    "name": "ARTCOLOR DS S.R.L",
+    "address": "Str. Avram Iancu Nr. 31,Agnita",
+    "phone": "+40 729 552550",
+    "email": "d.stirner@artcolor.group",
+    "lat": 45.9807578,
+    "lon": 24.6380841
+  },
+  {
+    "name": "ARTSANI COM SRL Busteni",
+    "address": "Bulevardul Libertății 206, Bușteni 105500",
+    "phone": "0344566464",
+    "email": "alina.constantin@artsani.ro",
+    "lat": 45.441398,
+    "lon": 25.540454
+  },
+  {
+    "name": "ARTSANI COM SRL Ploiesti",
+    "address": "Str. Gheorghe Doja Nr. 236,Ploiesti",
+    "phone": "0729 996 291",
+    "email": "alina.constantin@artsani.ro",
+    "lat": 44.9478336,
+    "lon": 26.009724
+  },
+  {
+    "name": "B & S DISTRICONSTRUCT SRL",
+    "address": "Str. Constantin Langa Nr. 142,Miroslava",
+    "phone": "0748 793 320",
+    "email": "depozit@bsdpartenerbrikston.ro",
+    "lat": 47.1450781,
+    "lon": 27.5352822
+  },
+  {
+    "name": "BALAJ MIHAI-STEFAN INTREPRINDERE INDIVID",
+    "address": "Str. Magnoliei Nr. 3,Sasar",
+    "phone": "(0742) 984 739",
+    "email": "balaj_mihai1610@yahoo.com",
+    "lat": 47.6624584,
+    "lon": 23.5441317
+  },
+  {
+    "name": "BAMATI SRL",
+    "address": "B-dul Nicolae Iorga Nr. 20,Drobeta Turnu Severin",
+    "phone": "0740 240 279",
+    "email": "office@bamati.ro",
+    "lat": 44.6308599,
+    "lon": 22.6852846
+  },
+  {
+    "name": "BATSON CONSTRUCT SRL",
+    "address": "Str. Stadionului Nr. 6,Aiud",
+    "phone": "0744 615 565",
+    "email": "office@batson.ro",
+    "lat": 46.3123836,
+    "lon": 23.7278631
+  },
+  {
+    "name": "BAU ART TEAM SRL",
+    "address": "Odaia Banului Nr. 82",
+    "phone": "0744 348 857",
+    "email": "cristian.norocea@yahoo.com",
+    "lat": 45.0776663,
+    "lon": 26.8313355
+  },
+  {
+    "name": "BAUMAX ROM S.R.L.",
+    "address": "Str. Augustus Nr. 9,Constanta",
+    "phone": "0744 321 050",
+    "email": "baumax_rom@yahoo.com",
+    "lat": 44.1656779,
+    "lon": 28.5613802
+  },
+  {
+    "name": "BMP CONSTRUCT SRL",
+    "address": "Aleea Borsec Nr. 1,Cluj-Napoca",
+    "phone": "0747 967 200",
+    "email": "mileamihai15@yahoo.com",
+    "lat": 46.7694727,
+    "lon": 23.6230002
+  },
+  {
+    "name": "BOB SELECT SOLUTION SRL",
+    "address": "Moldovenesti, Nr. 702",
+    "phone": "",
+    "email": "bobimorar@yahoo.com",
+    "lat": 46.5005469,
+    "lon": 23.6644851
+  },
+  {
+    "name": "BOGYSZ SRL",
+    "address": "Caluseri Nr. 299,",
+    "phone": "0745.196.474",
+    "email": "bogysz@yahoo.com",
+    "lat": 46.6063733,
+    "lon": 24.7371731
+  },
+  {
+    "name": "BRICOVERS SRL",
+    "address": "Calea Sagului Nr. 21,Timisoara",
+    "phone": "0754228338",
+    "email": "cosmin@bricovers.ro",
+    "lat": 45.6958106,
+    "lon": 21.1782046
+  },
+  {
+    "name": "BUCOVINA ELECTRO TOP SRL",
+    "address": "Str. Garii Nr. 22,Radauti",
+    "phone": "0749 222 225",
+    "email": "materiale1@bucovinaelectrotop.ro",
+    "lat": 47.8408515,
+    "lon": 25.9095152
+  },
+  {
+    "name": "BUILDING MAT SUPPLIER SRL",
+    "address": "Str. Morii Nr. 11,Ciupercenii Noi",
+    "phone": "0740 326 426",
+    "email": "bms.dragomir@gmail.com",
+    "lat": 43.916983,
+    "lon": 22.9466926
+  },
+  {
+    "name": "BUZDEA SRL",
+    "address": "Str. Privighetoarea, Nr. 29,Valea Lupului",
+    "phone": "0729 843 653",
+    "email": "office@fence-construct.ro",
+    "lat": 47.1737615,
+    "lon": 27.5170585
+  },
+  {
+    "name": "CALVADOR SRL",
+    "address": "Str. 1,Osorhei",
+    "phone": "0744 856 952",
+    "email": "calvadorconstruct@yahoo.com",
+    "lat": 47.0410788,
+    "lon": 22.0292101
+  },
+  {
+    "name": "CAROLIN SRL",
+    "address": "Bujoreni",
+    "phone": "0742 224 310",
+    "email": "office.carolin@yahoo.ro",
+    "lat": 45.1418063,
+    "lon": 24.3600438
+  },
+  {
+    "name": "CARPATINA PRODCOM SRL",
+    "address": "Str. Stadionului Nr. 14,Turnu Magurele",
+    "phone": "0765 216 303",
+    "email": "carpatina2007@yahoo.com",
+    "lat": 43.7590984,
+    "lon": 24.8760147
+  },
+  {
+    "name": "CEGA FORAJ DRILL SRL",
+    "address": "Str. Bobâlna Nr. 10,Dumbravita",
+    "phone": "",
+    "email": "cegacegaandrei@gmail.com",
+    "lat": 45.8049826,
+    "lon": 21.2553834
+  },
+  {
+    "name": "CID CORPORATE CONSTRUCT SRL",
+    "address": "Str. Catanoaia Nr. 33,Bucuresti",
+    "phone": "0733 952 241",
+    "email": "cid_company@yaoo.com",
+    "lat": 44.4258461,
+    "lon": 26.2144107
+  },
+  {
+    "name": "CLANIEL COMPANY SRL",
+    "address": "Str. Teilor Nr. 27,Brazii de Jos",
+    "phone": "0732 217 452",
+    "email": "clanyelcompany@yahoo.com",
+    "lat": 44.8491354,
+    "lon": 26.0270219
+  },
+  {
+    "name": "COLEN IMPEX SRL",
+    "address": "Str. Vornicei Nr.4,Ploiesti",
+    "phone": "0728 049 312",
+    "email": "colen_impex@yahoo.com",
+    "lat": 44.9259883,
+    "lon": 25.9974188
+  },
+  {
+    "name": "COM CONSULTING SRL",
+    "address": "Calea Baciului Nr. 47,Cluj-Napoca",
+    "phone": "0757 103 530",
+    "email": "office@com-consulting.ro",
+    "lat": 46.7837036,
+    "lon": 23.5572697
+  },
+  {
+    "name": "COMRIMET IMPEX SRL",
+    "address": "Campenesti 3/D,Apahida",
+    "phone": "0742 016 890",
+    "email": "comrimet.cluj@yahoo.com",
+    "lat": 46.8523955,
+    "lon": 23.6892146
+  },
+  {
+    "name": "CONCELEX SRL",
+    "address": "Str. Aeroportului Nr. 120,Bucuresti",
+    "phone": "(0741) 032 452",
+    "email": "florin.minea@concelex.ro",
+    "lat": 44.5075356,
+    "lon": 26.0083969
+  },
+  {
+    "name": "CONCIVIA SA",
+    "address": "Str. Calarasilor nr. 161,Braila",
+    "phone": "0735 876 864",
+    "email": "vanzari@concivia.ro",
+    "lat": 45.0459631,
+    "lon": 27.4992892
+  },
+  {
+    "name": "CONINSTAL KNT SRL",
+    "address": "Str. Republicii, Nr. 17,Viseu de Sus",
+    "phone": "(0745) 077 822",
+    "email": "coninstalknt@yahoo.com",
+    "lat": 47.7094918,
+    "lon": 24.4297915
+  },
+  {
+    "name": "CONSTRUCTII UNU SA",
+    "address": "B-dul Poitiers Nr. 2,Iasi",
+    "phone": "0745 752 551",
+    "email": "adrianmereuta@constructiiunu.ro",
+    "lat": 47.1340111,
+    "lon": 27.5757307
+  },
+  {
+    "name": "CONSULTEAM PRO SRL",
+    "address": "Str. Uverturii, Nr. 16,Domnesti",
+    "phone": "0728 968 968",
+    "email": "razvan.abaza@consulteampro.ro",
+    "lat": 44.4084316,
+    "lon": 25.9440005
+  },
+  {
+    "name": "CONTI IMPEX 93 SRL",
+    "address": "Sos.de Centura 62C,MAGURELE",
+    "phone": "(0720) 453 729",
+    "email": "adrian.constantin@contiimpex.ro",
+    "lat": 44.348594,
+    "lon": 26.0690794
+  },
+  {
+    "name": "COSIM SRL",
+    "address": "Str. Portelanului, Nr. 2,Cluj-Napoca",
+    "phone": "0747 213 351",
+    "email": "office@agconinvest.ro",
+    "lat": 46.7909399,
+    "lon": 23.6053879
+  },
+  {
+    "name": "CRIBO DESIGN SRL",
+    "address": "B-dul Constructorilor Nr. 24,Bucuresti",
+    "phone": "0745 047 160",
+    "email": "cribo.design@yahoo.com",
+    "lat": 44.452979,
+    "lon": 26.0461678
+  },
+  {
+    "name": "DABU DISTRICT GRUP SRL",
+    "address": "Str. Mihai Viteazul Nr. 66,Doanca",
+    "phone": "0745 129 491",
+    "email": "ddgmagazin@yahoo.com",
+    "lat": 43.8627154,
+    "lon": 24.6379301
+  },
+  {
+    "name": "DACHART S.R.L",
+    "address": "Str. Râului Nr. 220,Craiova",
+    "phone": "0729 884 489",
+    "email": "office@dachart.ro",
+    "lat": 44.3323633,
+    "lon": 23.7685206
+  },
+  {
+    "name": "DACODRIN SRL",
+    "address": "Str. Obedenaru Nr. 32,Arad",
+    "phone": "0730 018 303",
+    "email": "dacodrin@yahoo.com",
+    "lat": 46.1932338,
+    "lon": 21.3010152
+  },
+  {
+    "name": "DAVID GENERAL GLOBAL SRL",
+    "address": "Str. Ion Minulescu nr.11,Pitesti",
+    "phone": "0769 217 941",
+    "email": "dggcolorare@gmail.com",
+    "lat": 44.8671752,
+    "lon": 24.8445273
+  },
+  {
+    "name": "DECORA DESIGN SRL",
+    "address": "Str. Cireasov Nr. 71,Slatina",
+    "phone": "0723 398 988",
+    "email": "aprovizionare@decora-design.ro",
+    "lat": 44.439822,
+    "lon": 24.3789177
+  },
+  {
+    "name": "DENIS  COMPANY SRL",
+    "address": "Str. Tarcu nr. 2,Mosnita Noua",
+    "phone": "0732691763",
+    "email": "contact@deniscompany.com",
+    "lat": 45.724171,
+    "lon": 21.3094956
+  },
+  {
+    "name": "DENIS FLOR METAL SRL",
+    "address": "B-dul Republicii Nr. 110 ,Bolintin-Vale",
+    "phone": "0720 494 995",
+    "email": "denisflmetal@gmail.com",
+    "lat": 44.4472524,
+    "lon": 25.7562725
+  },
+  {
+    "name": "DEVEGA SRL",
+    "address": "Str. Berzei nr.4,Oradea",
+    "phone": "0733 330 107",
+    "email": "office@devega.ro",
+    "lat": 47.0705884,
+    "lon": 21.9315858
+  },
+  {
+    "name": "DHS SRL",
+    "address": "Str. Principala Nr. 511,Unirea",
+    "phone": "0741 496 068",
+    "email": "ditulanstefan@yahoo.com",
+    "lat": 44.1577066,
+    "lon": 23.1772765
+  },
+  {
+    "name": "DIALIN AGA SRL",
+    "address": "Breaza Nr. 363",
+    "phone": "0743-900368",
+    "email": "dialinaga@gmail.com",
+    "lat": 44.1887155,
+    "lon": 28.6135034
+  },
+  {
+    "name": "DINA - COM SRL",
+    "address": "Str. Victoriei Nr. 171,Târgu Jiu",
+    "phone": "0744 478 291",
+    "email": "dinacomdepozit@yahoo.com",
+    "lat": 45.024354,
+    "lon": 23.2686062
+  },
+  {
+    "name": "DIX DEPOT SRL",
+    "address": "Str. Marin Preda Nr. 49,Otopeni",
+    "phone": "0787 698 979",
+    "email": "office@dixdepot.ro",
+    "lat": 44.5579905,
+    "lon": 26.060416
+  },
+  {
+    "name": "DSP MEDIACONS SRL",
+    "address": "Str. Preciziei Nr. 34,Bucuresti",
+    "phone": "(0723) 746 501",
+    "email": "valentin.zarnescu@dspmediacons.ro",
+    "lat": 44.429616,
+    "lon": 25.9764077
+  },
+  {
+    "name": "EGERIA TM SRL",
+    "address": "Aleea Viilor nr.24,Timisoara",
+    "phone": "0722837018",
+    "email": "egeriaoffice@gmail.com",
+    "lat": 45.7770154,
+    "lon": 21.1954075
+  },
+  {
+    "name": "EKY DEPOZIT SRL",
+    "address": "Str. Justitiei,Târgu Frumos",
+    "phone": "0752 043 344",
+    "email": "comercial@ekysam.ro",
+    "lat": 47.2048179,
+    "lon": 27.0095233
+  },
+  {
+    "name": "ELMAD CONSTRUCT SRL",
+    "address": "Balcesti Nr. 45",
+    "phone": "0728 930 366",
+    "email": "madalin.panduru78@yahoo.com",
+    "lat": 44.6170199,
+    "lon": 23.9389534
+  },
+  {
+    "name": "EMIX MAR SRL",
+    "address": "Str. Tipografilor Nr. 8,Zalau",
+    "phone": "+40743 175 572",
+    "email": "emixmarsrl@gmail.com",
+    "lat": 47.1735651,
+    "lon": 23.0761972
+  },
+  {
+    "name": "EUROCONSTRUCT SRL",
+    "address": "Str. 1 Mai,Târgu Secuiesc",
+    "phone": "0788-323012",
+    "email": "office@euroconstruct.ro",
+    "lat": 45.9970718,
+    "lon": 26.1578913
+  },
+  {
+    "name": "EVORA CENTER SRL",
+    "address": "Str. Ierbusului Nr. 17,Reghin",
+    "phone": "0747.134.983",
+    "email": "cosmin_sava@evoracenter.ro",
+    "lat": 46.7800387,
+    "lon": 24.7332656
+  },
+  {
+    "name": "FERMIS SRL",
+    "address": "Str. Gheorghe Lazar Nr. 15,Sighisoara",
+    "phone": "0744-625290",
+    "email": "comercial@fermis.ro",
+    "lat": 46.2257791,
+    "lon": 24.800259
+  },
+  {
+    "name": "FLOREAN TRUST DRAGOMIRESTI SRL",
+    "address": "Str. 1 Decembrie 1918,Dragomiresti",
+    "phone": "0754 809 777",
+    "email": "floreantrust@yahoo.com",
+    "lat": 47.6610036,
+    "lon": 24.3101701
+  },
+  {
+    "name": "GENERAL MEMENTO U.M. IMPORT EXPORT SRL",
+    "address": "Aninoasa,Aninoasa",
+    "phone": "0254 546 085",
+    "email": "generalmementosrl@gmail.com",
+    "lat": 45.1923405,
+    "lon": 24.9287081
+  },
+  {
+    "name": "GENESIS MARKETING DISTRIBUTION SRL",
+    "address": "Str. Industriilor Nr. 191,Chiajna",
+    "phone": "0786 021 393",
+    "email": "vanzari@genesis-md.ro",
+    "lat": 44.4443725,
+    "lon": 25.9579292
+  },
+  {
+    "name": "GFB CONCEPT NEW PARTNER SRL",
+    "address": "Str. 1 Decembrie Nr. 131,Tunari",
+    "phone": "0765 707 841",
+    "email": "office.gfb@yahoo.com",
+    "lat": 44.5494109,
+    "lon": 26.1332368
+  },
+  {
+    "name": "GHITU SRL",
+    "address": "Str. Principala Nr. 20,Corbeni",
+    "phone": "0744 937 816",
+    "email": "iovicone@yahoo.com",
+    "lat": 45.3006179,
+    "lon": 24.6570146
+  },
+  {
+    "name": "GIE ISOLATION SRL",
+    "address": "Str. Principala Nr. 281,Satulung",
+    "phone": "0742 826 467",
+    "email": "gieisolation69@gmail.com",
+    "lat": 47.5604221,
+    "lon": 23.4311495
+  },
+  {
+    "name": "GIOINVEST CORPORATION SRL",
+    "address": "Viseu de Jos,Nr. 1051",
+    "phone": "(0737) 907 548",
+    "email": "gioinvest@yahoo.com",
+    "lat": 47.7244216,
+    "lon": 24.3657085
+  },
+  {
+    "name": "GIRNITA PROD LEMN SRL",
+    "address": "Butoiesti, Nr. 280",
+    "phone": "0740 218 537",
+    "email": "girnita_prod_lemn@yahoo.com",
+    "lat": 44.5880155,
+    "lon": 23.3723541
+  },
+  {
+    "name": "HABITAT RESIDENCE INVEST SRL",
+    "address": "Str. Verde Nr. 17 A,Constanta",
+    "phone": "732 510 235",
+    "email": "office@habitatinvest.ro",
+    "lat": 44.1699746,
+    "lon": 28.5948706
+  },
+  {
+    "name": "HEMELY SRL",
+    "address": "Str. Petru Maior, Nr. 51,Turda",
+    "phone": "0744 514 104",
+    "email": "hemelyconstruct@gmail.com",
+    "lat": 46.5648627,
+    "lon": 23.8071539
+  },
+  {
+    "name": "IACOBICI IOSIF SRL",
+    "address": "Armenis, Nr. 155",
+    "phone": "0768 346724",
+    "email": "todor_elena14@yahoo.com",
+    "lat": 45.2093601,
+    "lon": 22.3100578
+  },
+  {
+    "name": "IASICON SA",
+    "address": "Str. Sfântul Lazar Nr. 50,Iasi",
+    "phone": "0745 345 112",
+    "email": "daniela.vranceanu@iasicon.ro",
+    "lat": 47.152721,
+    "lon": 27.5885483
+  },
+  {
+    "name": "IDARIUS IMPEX SRL",
+    "address": "Str. 9 Mai,Târgu Jiu",
+    "phone": "0724 294 041",
+    "email": "georgianaemilia@yahoo.com",
+    "lat": 45.0248517,
+    "lon": 23.2681344
+  },
+  {
+    "name": "IMOBIL LICA SRL",
+    "address": "Sieu",
+    "phone": "0761.942.769",
+    "email": "depozitsieu@yahoo.com",
+    "lat": 47.0010728,
+    "lon": 24.6085494
+  },
+  {
+    "name": "IMPACT-CONSTRUCT SRL",
+    "address": "Strada Curtici km. 4,Arad",
+    "phone": "0743071219",
+    "email": "impactconstruct2019@gmail.com",
+    "lat": 46.1987087,
+    "lon": 21.3192588
+  },
+  {
+    "name": "IMPEX AURORA SRL",
+    "address": "Str. Kossuth Lajos Nr. 31,Miercurea Ciuc",
+    "phone": "0744.483.382",
+    "email": "impex.aurora@gmail.com",
+    "lat": 46.3622214,
+    "lon": 25.803001
+  },
+  {
+    "name": "INDALEX DEPOT SRL",
+    "address": "Str. Barierei,Lunca Cetatuii",
+    "phone": "0743 458 809",
+    "email": "indalex.depot@gmail.com",
+    "lat": 47.0891513,
+    "lon": 27.5620409
+  },
+  {
+    "name": "ISC IMOB INVEST SRL",
+    "address": "B-dul Republicii, Bolintin Deal",
+    "phone": "0720 101 226",
+    "email": "isc.imob.invest@gmail.com",
+    "lat": 44.4525288,
+    "lon": 25.8243013
+  },
+  {
+    "name": "IZO VILLAS SRL",
+    "address": "Str. Toamnei Nr. 34 ,Sacele",
+    "phone": "(0744) 503 650",
+    "email": "izo_villas@yahoo.com",
+    "lat": 45.6190808,
+    "lon": 25.6585235
+  },
+  {
+    "name": "L  M DISTRIBCONS SRL",
+    "address": "Str. Amurgului Nr. 1,Timisoara",
+    "phone": "0722425326",
+    "email": "semsurconstruct@yahoo.com",
+    "lat": 45.7701738,
+    "lon": 21.2236342
+  },
+  {
+    "name": "LA TOT SRL",
+    "address": "Calea Bacaului Nr. 245,Onesti",
+    "phone": "0745627374",
+    "email": "cristi.radu1978@yahoo.com",
+    "lat": 46.281845,
+    "lon": 26.7612501
+  },
+  {
+    "name": "LADO AMENAJARI SRL",
+    "address": "Sos. Baldovinesti Nr. 16,Braila",
+    "phone": "0747 796 274",
+    "email": "ladoamenajari@gmail.com",
+    "lat": 45.3036616,
+    "lon": 27.9360384
+  },
+  {
+    "name": "Lenu & Alina",
+    "address": "Str. 1 Decembrie Nr. 22,Sânnicolau Mare",
+    "phone": "0722192149",
+    "email": "stanachealina@yahoo.com",
+    "lat": 46.0695977,
+    "lon": 20.6303078
+  },
+  {
+    "name": "MACON SRL",
+    "address": "Str. Principala Nr. 255 ,Bistrita",
+    "phone": "0752.242.072",
+    "email": "gherghel_adrian@yahoo.com",
+    "lat": 47.0001849,
+    "lon": 24.6145996
+  },
+  {
+    "name": "MAISTORUL SRL",
+    "address": "Str. Corvinilor Nr. 1,Satu Mare",
+    "phone": "0751 507 342",
+    "email": "office.maistorul@gmail.com",
+    "lat": 47.7983723,
+    "lon": 22.8855042
+  },
+  {
+    "name": "MAN PREST COM SRL",
+    "address": "Str. Olarilor Nr. 886,Vama",
+    "phone": "0749 798 518",
+    "email": "scmanprestsrl@yahoo.com",
+    "lat": 47.8445247,
+    "lon": 23.398485
+  },
+  {
+    "name": "MARANKIM SRL",
+    "address": "Nr. 99,Topolovatu Mare",
+    "phone": "0766432879",
+    "email": "florin.dumbrava@yahoo.com",
+    "lat": 45.7738945,
+    "lon": 21.6188845
+  },
+  {
+    "name": "MARINI TRANS SRL",
+    "address": "Str. Avram Iancu Nr. 47,Brad",
+    "phone": "0728.327.079",
+    "email": "marinitransmixt@gmail.com",
+    "lat": 46.1327352,
+    "lon": 22.7875212
+  },
+  {
+    "name": "MARNA SA",
+    "address": "Str. Raureni Nr.87,Râmnicu Vâlcea",
+    "phone": "0755 035 189",
+    "email": "marnamat@gmail.com",
+    "lat": 45.0565232,
+    "lon": 24.3309161
+  },
+  {
+    "name": "MATEMMAN SRL",
+    "address": "Str. Olimpia Nr. 3,Mosnita Noua",
+    "phone": "0757888444",
+    "email": "office@matemman.ro",
+    "lat": 45.719627,
+    "lon": 21.3026646
+  },
+  {
+    "name": "MATERIC AUTOSERV SRL",
+    "address": "Str. Victoriei Nr. 24,Moreni",
+    "phone": "",
+    "email": "totatll.materic@gmail.com",
+    "lat": 44.9872952,
+    "lon": 25.64403
+  },
+  {
+    "name": "MAURER IMOBILIARE SIGHISOARA SRL",
+    "address": "Str. Viilor FN,Sighisoara",
+    "phone": "+40 748 182 388",
+    "email": "cosmin.abrudan@maurerimobiliare.ro",
+    "lat": 46.2354073,
+    "lon": 24.8072945
+  },
+  {
+    "name": "MAX SRL",
+    "address": "Str. Canalului Nr. 19,Cernavoda",
+    "phone": "0341 446 688",
+    "email": "george.vasilache@max-srl.ro",
+    "lat": 44.3459508,
+    "lon": 28.027797
+  },
+  {
+    "name": "MEDIA PRO SRL",
+    "address": "Str. Oltului Nr. 23,Buzau",
+    "phone": "0756 078 917",
+    "email": "mediaprobuzau@gmail.com",
+    "lat": 45.1557919,
+    "lon": 26.8050243
+  },
+  {
+    "name": "MENATWORK SOLUTIONS SRL",
+    "address": "Sos. de centura Nr. 103,Popesti Leordeni",
+    "phone": "0727 200 389",
+    "email": "aprovizionare.edilitare@menatwork.ro",
+    "lat": 44.3352436,
+    "lon": 26.1291508
+  },
+  {
+    "name": "METAL FABRIC SRL",
+    "address": "Calea Trotusului, Nr. 69,Darmanesti",
+    "phone": "0744 543 746",
+    "email": "sorinapostol7@yahoo.com",
+    "lat": 46.3801974,
+    "lon": 26.4905798
+  },
+  {
+    "name": "METALE INTERNATIONAL SRL",
+    "address": "Str. Magura Nr. 121,Focsani",
+    "phone": "0732 121 754",
+    "email": "office@metaleinternational.ro",
+    "lat": 45.6978981,
+    "lon": 27.2132281
+  },
+  {
+    "name": "METALTRANS SRL",
+    "address": "Str. VAILOR ,Slatina",
+    "phone": "0728 444 224",
+    "email": "office@metaltrans.ro",
+    "lat": 44.418245,
+    "lon": 24.3847218
+  },
+  {
+    "name": "MICRA COM SRL",
+    "address": "Str. Caraiman Nr. 42,Râsnov",
+    "phone": "0742017277",
+    "email": "micracom2000@gmail.com",
+    "lat": 45.5973215,
+    "lon": 25.4629772
+  },
+  {
+    "name": "MIXT IONUT CONSTRUCT SRL",
+    "address": "Piata Eroilor Nr. 4,Târgu Lapus",
+    "phone": "0763 789 947",
+    "email": "magazin.ionut@yahoo.com",
+    "lat": 47.4517454,
+    "lon": 23.8666363
+  },
+  {
+    "name": "MIZADI SRL",
+    "address": "Str. Libertatii Nr. 22,Întorsura Buzaului",
+    "phone": "0785 273 463",
+    "email": "mircea.matei72@yahoo.com",
+    "lat": 45.66867,
+    "lon": 26.0575829
+  },
+  {
+    "name": "MONDYGRES SRL",
+    "address": "Moieciu de Jos, Nr. 182",
+    "phone": "0740 196 975",
+    "email": "ionelnitu13@yahoo.com",
+    "lat": 45.4941785,
+    "lon": 25.3272785
+  },
+  {
+    "name": "MURALI STORE SRL",
+    "address": "Str. Bujorilor Nr. 70,Timisoara",
+    "phone": "0734295853",
+    "email": "office@decorative-rofix.ro",
+    "lat": 45.7269445,
+    "lon": 21.2046616
+  },
+  {
+    "name": "NELMAR NETY SRL",
+    "address": "Str. Decebal, Dragasani",
+    "phone": "0721 906 189",
+    "email": "nelmar_nety@yahoo.com",
+    "lat": 44.6594778,
+    "lon": 24.2656689
+  },
+  {
+    "name": "NORDENLOR PRODCOM IMPEX SRL",
+    "address": "Str. Transilvaniei Nr. 185,Sângeorgiu de Mures",
+    "phone": "0729.618.235",
+    "email": "sabau@nordenlor.ro",
+    "lat": 46.5754969,
+    "lon": 24.6034393
+  },
+  {
+    "name": "NORDENLOR PRODCOM IMPEX SRL",
+    "address": "Str. Pandurilor Nr. 136,Reghin",
+    "phone": "0729-618239",
+    "email": "office@nordenlor.ro",
+    "lat": 46.7971538,
+    "lon": 24.7194587
+  },
+  {
+    "name": "NORDENLOR PRODCOM IMPEX SRL",
+    "address": "Str. Gurghiului, Nr. 51,Reghin",
+    "phone": "0732-141755",
+    "email": "office@nordenlor.ro",
+    "lat": 46.7628609,
+    "lon": 24.7137848
+  },
+  {
+    "name": "OLANTIG IMPEX SRL",
+    "address": "Osica de Sus",
+    "phone": "0767 147 659",
+    "email": "csnicolaie@yahoo.com",
+    "lat": 44.2551689,
+    "lon": 24.3164397
+  },
+  {
+    "name": "OREX IMPORT EXPORT SRL",
+    "address": "Str. Lunca Oltului Nr. 16,Sfântu Gheorghe",
+    "phone": "0748.223.844",
+    "email": "comercial@orex.ro",
+    "lat": 45.8737482,
+    "lon": 25.8007768
+  },
+  {
+    "name": "OREX IMPORT EXPORT SRL",
+    "address": "Str. Stefan Cel Mare Nr. ,Covasna",
+    "phone": "0267340020",
+    "email": "covasna@orex.ro",
+    "lat": 45.8441912,
+    "lon": 26.1604115
+  },
+  {
+    "name": "ORIZONT SIGHETUL MARMATIEI SRL",
+    "address": "Str. Plevnei Nr. 3,Sighetu Marmatiei",
+    "phone": "(0730) 076 567",
+    "email": "office@orizont-srl.ro",
+    "lat": 47.9304618,
+    "lon": 23.8876969
+  },
+  {
+    "name": "P T VEST CONSTRUCT SRL",
+    "address": "Str. Dumbravei Nr. 234,Dumbrava Rosie",
+    "phone": "0233 282 760",
+    "email": "ptvestconstruct@gmail.com",
+    "lat": 46.8724426,
+    "lon": 26.4508577
+  },
+  {
+    "name": "PAUNYX INVEST COMPANY SRL",
+    "address": "Str. Celulozei Nr. 2,Constanta",
+    "phone": "072 190 0432",
+    "email": "vanzari@paunyxconstruct.ro",
+    "lat": 44.1630538,
+    "lon": 28.590542
+  },
+  {
+    "name": "POLI IZO CONSTRUCT SRL",
+    "address": "Str. 1 Mai Nr. 20,Ludus",
+    "phone": "",
+    "email": "office.poliizo@gmail.com",
+    "lat": 46.4671202,
+    "lon": 24.086376
+  },
+  {
+    "name": "POPVAL-COS SRL",
+    "address": "Focuri",
+    "phone": "0735 230 695",
+    "email": "office.popval@gmail.com",
+    "lat": 47.3513519,
+    "lon": 27.2018625
+  },
+  {
+    "name": "PREMIUM TRADING EXCLUSIVE SRL",
+    "address": "B-dul Mamaia Nr. 88,Constanta",
+    "phone": "0721 000 268",
+    "email": "florin.dumitrache@premiumtrading.ro",
+    "lat": 44.1868189,
+    "lon": 28.6491924
+  },
+  {
+    "name": "PRESTO CONSTRUCT SRL",
+    "address": "Calea Ferentari Nr. 159,Bucuresti",
+    "phone": "0728 777 493",
+    "email": "cus_vlad@yahoo.com",
+    "lat": 44.4100298,
+    "lon": 26.0765387
+  },
+  {
+    "name": "PRO BUILDING CONCEPT SRL",
+    "address": "Str. Calea Mosilor Nr. 38,Chisinau",
+    "phone": "37369959289",
+    "email": "probcompany@gmail.com",
+    "lat": 47.0270923,
+    "lon": 28.8588729
+  },
+  {
+    "name": "PRO CEMEX SRL",
+    "address": "B-dul Aurel Vlaicu Nr. 137,Constanta",
+    "phone": "0755 680 502",
+    "email": "depozit@procemex.ro",
+    "lat": 44.1457107,
+    "lon": 28.6236467
+  },
+  {
+    "name": "PRODCOM BILC SRL",
+    "address": "str Baltii , Mandresti Munteni ,Focsani",
+    "phone": "0749 137 065",
+    "email": "prodcombilc@gmail.com",
+    "lat": 45.6848055,
+    "lon": 27.2488223
+  },
+  {
+    "name": "PROFESIONAL CONSTRUCT SRL",
+    "address": "Str. Ambudului Nr. 5,Satu Mare",
+    "phone": "0740 574 726",
+    "email": "bota_ionut_87@yahoo.com",
+    "lat": 47.7698001,
+    "lon": 22.8843891
+  },
+  {
+    "name": "PROMAKY SOLUTIONS SRL",
+    "address": "Str. Calarasi Nr. 100,Sebes",
+    "phone": "0763 675 587",
+    "email": "contact@promaky-solutions.ro",
+    "lat": 45.9572539,
+    "lon": 23.5742233
+  },
+  {
+    "name": "PROMAT COMIMPEX SRL",
+    "address": ",Andrid",
+    "phone": "0752 248 300",
+    "email": "promat_vasile@yahoo.com",
+    "lat": 47.5143249,
+    "lon": 22.3382367
+  },
+  {
+    "name": "PROVINCIAL SRL",
+    "address": "Str. Cuza Voda, Slatina",
+    "phone": "0726 700 104",
+    "email": "provincial03@yahoo.com",
+    "lat": 44.4206202,
+    "lon": 24.3811284
+  },
+  {
+    "name": "QUADRAL SRL",
+    "address": "Str. Botizului Nr. 22,Satu Mare",
+    "phone": "0728 320 239",
+    "email": "office@quadral-profidecor.ro",
+    "lat": 47.7984968,
+    "lon": 22.9004256
+  },
+  {
+    "name": "R & G INDUSTRIES SRL",
+    "address": "Cristur Nr. 365",
+    "phone": "(0725) 587 112",
+    "email": "comenzi.rgcristur@gmail.com",
+    "lat": 47.120834,
+    "lon": 24.3029436
+  },
+  {
+    "name": "RASUB CONSTRUCT SRL",
+    "address": "Str. Alexandru Varipatti Nr.5,Slatina",
+    "phone": "0727 352 846",
+    "email": "office@rasub.ro",
+    "lat": 44.4266935,
+    "lon": 24.3559247
+  },
+  {
+    "name": "REDCON UNU SRL",
+    "address": "Str. Calugareni Nr. 240,Vaslui",
+    "phone": "0720 550 243",
+    "email": "info@redcon1.ro",
+    "lat": 46.6508009,
+    "lon": 27.7086284
+  },
+  {
+    "name": "REVIVAL SRL",
+    "address": "Str. Cuza Voda Nr. 58,Tecuci",
+    "phone": "0726 209 361",
+    "email": "revival_ro@yahoo.com",
+    "lat": 45.8430987,
+    "lon": 27.4435599
+  },
+  {
+    "name": "RODOTRANS SRL",
+    "address": "Str. Hategului Nr.52,Turda",
+    "phone": "0744 678 724",
+    "email": "rodotrans@yahoo.ro",
+    "lat": 46.559923,
+    "lon": 23.8196473
+  },
+  {
+    "name": "ROROM EXPERT SRL",
+    "address": "Str. Nationalizarii,Constanta",
+    "phone": "0722 385 598",
+    "email": "roromexpert@gmail.com",
+    "lat": 44.1743365,
+    "lon": 28.6088979
+  },
+  {
+    "name": "ROXEMA SRL",
+    "address": "Soseaua Nicolina,Valea Adânca",
+    "phone": "0740 082 607",
+    "email": "roxema_srl@yahoo.com",
+    "lat": 47.118058,
+    "lon": 27.5635184
+  },
+  {
+    "name": "SALAUTA CONSTRUCT SRL",
+    "address": "Bistrita E58 Nr. 25",
+    "phone": "0743888976",
+    "email": "salautasrl@yahoo.com",
+    "lat": 47.1327012,
+    "lon": 24.4963949
+  },
+  {
+    "name": "SARAMARIS SRL",
+    "address": "Str. Horea Nr. 140,Hateg",
+    "phone": "(0254) 777 053",
+    "email": "saramaris@yahoo.com",
+    "lat": 45.6007834,
+    "lon": 22.9324396
+  },
+  {
+    "name": "SEALDI CONSULT INVEST SRL",
+    "address": "Cluj-Napoca, E60",
+    "phone": "0757 070 275",
+    "email": "sealdiconsultinvest@gmail.com",
+    "lat": 46.769379,
+    "lon": 23.5899542
+  },
+  {
+    "name": "SERE CONSTRUCT ACTIV SRL",
+    "address": "Str. Ioan Slavici Nr. 23,Magurele",
+    "phone": "0721 680 393",
+    "email": "loreactiv@yahoo.com",
+    "lat": 44.3605491,
+    "lon": 26.041773
+  },
+  {
+    "name": "SERV PROCONS SRL",
+    "address": "DJ677 Nr. 154,Cepari",
+    "phone": "(0764) 708 989",
+    "email": "servprocons@yahoo.com",
+    "lat": 44.4897131,
+    "lon": 24.1784065
+  },
+  {
+    "name": "SIC TOTAL BAU S.R.L.",
+    "address": "Str. Praidului Nr. 94,Sovata",
+    "phone": "0744591950",
+    "email": "sictotalbau@gmail.com",
+    "lat": 46.5798537,
+    "lon": 25.0658224
+  },
+  {
+    "name": "SKINER SRL",
+    "address": "DN65C Nr. 172,Craiova",
+    "phone": "0745 002 035",
+    "email": "sc_skiner@yahoo.com",
+    "lat": 44.3260983,
+    "lon": 23.8101673
+  },
+  {
+    "name": "SMART BUSINESS SRL",
+    "address": "Str. 8 Martie Nr. 4,Baia Mare",
+    "phone": "0745 267 605",
+    "email": "lupan.felician@yahoo.com",
+    "lat": 47.6715642,
+    "lon": 23.6178362
+  },
+  {
+    "name": "SPRIO SRL",
+    "address": "Calea lui Traian Nr. 13,Râmnicu Vâlcea",
+    "phone": "0741 148 811",
+    "email": "sprio_srl@yahoo.com",
+    "lat": 45.1032461,
+    "lon": 24.3634373
+  },
+  {
+    "name": "STILEXPRIMA SRL",
+    "address": "Str. Lucian Blaga Nr. 64,Bistrita",
+    "phone": "0263231453",
+    "email": "office@stilexprima.ro",
+    "lat": 47.1545027,
+    "lon": 24.5096209
+  },
+  {
+    "name": "SVD BAU SRL",
+    "address": "Str. Aurel Vlaicu Nr. 113,Satu Mare",
+    "phone": "0752 090 816",
+    "email": "svdbau@gmail.com",
+    "lat": 44.5721273,
+    "lon": 23.2769427
+  },
+  {
+    "name": "TARR & TARR SRL",
+    "address": "Str. Dara Nr. 89,Satu Mare",
+    "phone": "0741 937 024",
+    "email": "tarrszilard@gmail.com",
+    "lat": 47.8049023,
+    "lon": 22.8564546
+  },
+  {
+    "name": "TECHNOCONS SRL",
+    "address": "Str. Tudor Vladimirescu Nr. 16,Amara",
+    "phone": "0765 251 395",
+    "email": "technoconssrl@yahoo.com",
+    "lat": 44.6125568,
+    "lon": 27.314354
+  },
+  {
+    "name": "TECO CRIS SRL",
+    "address": "Str. Gradinitei Nr. 25,Pascani",
+    "phone": "0753 833 844",
+    "email": "sctecocris@gmail.com",
+    "lat": 47.2467058,
+    "lon": 26.7150545
+  },
+  {
+    "name": "TEX SRL",
+    "address": "B-dul 25 Octombrie Nr. 22,Carei",
+    "phone": "+40741 145 831",
+    "email": "profitexcarei@gmail.com",
+    "lat": 47.6767069,
+    "lon": 22.4509409
+  },
+  {
+    "name": "THEO IMPEX SRL",
+    "address": "Soseaua Alexandriei Nr. 3,Giurgiu",
+    "phone": "0723 264 174",
+    "email": "theoimpex@gmail.com",
+    "lat": 43.8945111,
+    "lon": 25.9427284
+  },
+  {
+    "name": "TOTAL KAUFEN SRL",
+    "address": "B-dul Industriei Nr. 2,Timisoara",
+    "phone": "0727732431",
+    "email": "calin.dobra@yahoo.com",
+    "lat": 45.7426518,
+    "lon": 21.2661422
+  },
+  {
+    "name": "TT  CO SOLARIA GRUP SRL",
+    "address": "Str. Trandafirilor nr.35,Giroc",
+    "phone": "0732536550",
+    "email": "solariagrup@gmail.com",
+    "lat": 45.6933587,
+    "lon": 21.2374351
+  },
+  {
+    "name": "UNIFLADI SRL",
+    "address": "Str. Rahovei Nr. 43,Caracal",
+    "phone": "0728 279 881",
+    "email": "unifladi@yahoo.ro",
+    "lat": 44.1028983,
+    "lon": 24.3418282
+  },
+  {
+    "name": "VADATI SRL",
+    "address": "Bulevardul Muncii,Uricani",
+    "phone": "0723.798.350",
+    "email": "vadati.lupeni@yahoo.com",
+    "lat": 45.3327148,
+    "lon": 23.1275725
+  },
+  {
+    "name": "VALCIU & CO S.R.L.",
+    "address": "Str. Viticulturii Nr. 14,Tulcea",
+    "phone": "0240 532 059",
+    "email": "valciuco_snc@yahoo.com",
+    "lat": 45.1634939,
+    "lon": 28.7927334
+  },
+  {
+    "name": "VARALB SRL",
+    "address": "Strada Rákóczi Ferenc Nr. 122,Odorheiu Secuiesc",
+    "phone": "0740034916",
+    "email": "varalbsrl@gmail.com",
+    "lat": 46.2839748,
+    "lon": 25.2897035
+  },
+  {
+    "name": "I&M POLUX SRL",
+    "address": "Str. Principala Nr. 2,Costinesti",
+    "phone": "0241 734 393",
+    "email": "im_poluxsrl@yahoo.com",
+    "lat": 43.9467339,
+    "lon": 28.6271802
+  },
+  {
+    "name": "VEST RURAL CONSTRUCT SRL",
+    "address": "Str. Trandafirilor Nr. 603,Eselnita",
+    "phone": "0725 891 330",
+    "email": "fullconstruct@yahoo.com",
+    "lat": 44.6992032,
+    "lon": 22.3629844
+  },
+  {
+    "name": "WEBERBAU CONS SRL",
+    "address": "Str. Fagului nr. 60,Cluj-Napoca",
+    "phone": "0722 703 447",
+    "email": "office@weberbau.ro",
+    "lat": 46.7548514,
+    "lon": 23.6139392
+  },
+  {
+    "name": "YANIDA COM SRL",
+    "address": "Str. Narciselor Nr. 35,Târgu Jiu",
+    "phone": "0735 272 727",
+    "email": "yanidacom@yahoo.com",
+    "lat": 45.0413527,
+    "lon": 23.2889231
+  },
+  {
+    "name": "YCON SRL Târgu Mures",
+    "address": "Str. Milcovului Nr. 24,Târgu Mures",
+    "phone": "0724096885",
+    "email": "yconsrl@yahoo.com",
+    "lat": 46.5399696,
+    "lon": 24.5421137
+  },
+  {
+    "name": "YCON SRL Sangeorgiu de Mures",
+    "address": "Str. Borzas Nr. 1082,Sângeorgiu de Mures",
+    "phone": "0771552631",
+    "email": "yconsrl@yahoo.com",
+    "lat": 46.5868205,
+    "lon": 24.613134
+  },
+  {
+    "name": "YNOIL MARTOP SRL",
+    "address": "Topolovatu Mare, Nr. 138",
+    "phone": "0766432879",
+    "email": "florin.dumbrava@yahoo.com",
+    "lat": 45.7738945,
+    "lon": 21.6188845
+  },
+  {
+    "name": "LUK GRUP TRANS SRL",
+    "address": "1D DN6 CORNETU,Cornetu",
+    "phone": "0786 416 482",
+    "email": "lukgruptrans@gmail.com",
+    "lat": 44.3291019,
+    "lon": 25.9456187
+  },
+  {
+    "name": "MAG CONSTRUCTII EXPERT",
+    "address": "Sos. Independentei, Domnesti",
+    "phone": "0736 361 727",
+    "email": "office@magconstructii.ro",
+    "lat": 44.3935626,
+    "lon": 25.9220019
+  },
+  {
+    "name": "ARABESQUE SRL Galati",
+    "address": "Str. Timisului Nr. 1, Galati",
+    "phone": "0744 344 991",
+    "email": "antoaneta.orban@arabesque.ro",
+    "lat": 45.425331,
+    "lon": 28.0251314
+  },
+  {
+    "name": "ARABESQUE SRL Piatra Neamt",
+    "address": "Str. Gheorghe Caranfil Nr. 7, Piatra Neamt",
+    "phone": "0743 086 584",
+    "email": "cristian.lupu@arabesque.ro",
+    "lat": 46.870835260339454, 
+    "lon": 26.466303501667962
+  },
+  {
+    "name": "ARABESQUE SRL Chitila",
+    "address": "Str. Rudeni 107 - 109,Chitila",
+    "phone": "0744 344 991",
+    "email": "chimice.otopeni@arabesque.ro",
+    "lat": 44.4926323,
+    "lon": 25.9874132
+  },
+   {
+    "name": "ARABESQUE SRL Bucuresti",
+    "address": "Drumul Intre Tarlale Nr. 61, Sector 3 Bucuresti",
+    "phone": "0749 026 581",
+    "email": "chimice.b@arabesque.ro",
+    "lat": 44.41409891185069, 
+    "lon": 26.216780191462664
+  },
+  {
+    "name": "ARABESQUE SRL Baia Mare",
+    "address": "Bd. Independentei Nr. 80,Baia Mare",
+    "phone": "0752 096 164",
+    "email": "CHIMICE.MM@ARABESQUE.RO",
+    "lat": 47.654353,
+    "lon": 23.5167777
+  },
+  {
+    "name": "ARABESQUE SRL Brasov",
+    "address": "Str. Bucegi Nr. 1,Brasov",
+    "phone": "0740 119 144",
+    "email": "CHIMICE.BV@ARABESQUE.RO",
+    "lat": 45.657669,
+    "lon": 25.5452255
+  },
+  {
+    "name": "ARABESQUE SRL Constanta",
+    "address": "B-dul Aurel Vlaicu Nr. 171,Constanta",
+    "phone": "0743 009 545",
+    "email": "chimice.ct@arabesque.ro",
+    "lat": 44.1457107,
+    "lon": 28.6236467
+  },
+  {
+    "name": "ARABESQUE SRL Deva",
+    "address": "Str. Dorobantilor Nr. 34,Deva",
+    "phone": "0757 066 283",
+    "email": "chimice.hd@arabesque.ro",
+    "lat": 45.8725249,
+    "lon": 22.9205262
+  },
+  {
+    "name": "ARABESQUE SRL Galati",
+    "address": "Str. Drumul de Centura Nr. 39,Galati",
+    "phone": "0746 255 372",
+    "email": "chimice.gl@arabesque.ro",
+    "lat": 45.4211814,
+    "lon": 28.0048185
+  },
+  {
+    "name": "ARABESQUE SRL Ploiesti",
+    "address": "Str. Poligonului Nr. 5,Ploiesti",
+    "phone": "0749 161 705",
+    "email": "CHIMICE.PH@ARABESQUE.RO",
+    "lat": 44.9489606,
+    "lon": 25.9961155
+  },
+  {
+    "name": "ARABESQUE SRL Suceava",
+    "address": "Str. Vuia Traian Nr.17,Suceava",
+    "phone": "0747 501 108",
+    "email": "MARIUS.CIMPAN@ARABESQUE.RO",
+    "lat": 47.6636709,
+    "lon": 26.2474627
+  },
+  {
+    "name": "ARABESQUE SRL Târgu Mureș",
+    "address": "Str. Barajului Nr. 3,Târgu Mures",
+    "phone": "0754 058 405",
+    "email": "CHIMICE.MS@ARABESQUE.RO",
+    "lat": 46.5401095,
+    "lon": 24.5368026
+  },
+  {
+    "name": "A & R CONSMET SRL",
+    "address": "Str. Republicii 95A, Adjud",
+    "phone": "0742 146 682",
+    "email": "arconsmet@yahoo.com",
+    "lat": 46.0907231,
+    "lon": 27.1890388
+  },
+   {
+    "name": "ADDCONCEPT SRL",
+    "address": "Str. Iuliu Coroianu nr. 2, ap. 7,Cluj-Napoca",
+    "phone": "0745 234 499",
+    "email": "office@addconcept.ro",
+    "lat": 46.7824022,
+    "lon": 23.5911545
+  },
+  {
+    "name": "ADELIA-CON SRL",
+    "address": "Str. Aleea Pietii 26B,Targu Carbunesti",
+    "phone": "0726 684 646",
+    "email": "adelia_con@yahoo.ro",
+    "lat": 44.9580344,
+    "lon": 23.5090428
+  },
+   {
+    "name": "ALVVIMAR COMIMPEX SRL",
+    "address": "Str. Calea Bucuresti Nr. 100,Stefanesti",
+    "phone": "0740 168 786",
+    "email": "office@alvvimar.ro",
+    "lat": 44.4267674,
+    "lon": 26.1025384
+  },
+  {
+    "name": "AMMON GAMA CORPORATION SRL",
+    "address": "B-dul Timisoara Nr.103E,Bucuresti",
+    "phone": "0740 400 410",
+    "email": "ammongama@gmail.com",
+    "lat": 44.4206840,
+    "lon": 26.0040356
+  },
+   {
+    "name": "ANANIA CONSTRUCT SRL",
+    "address": "Str. Principala nr. 632,Vadu Izei",
+    "phone": "0753 307 732",
+    "email": "anania_sebastian@yahoo.com",
+    "lat": 47.8891036,
+    "lon": 23.9306584
+  },
+  {
+    "name": "ARINISANA SRL",
+    "address": "Str. Principala Nr. 167,Arinis",
+    "phone": "(0720) 001 513",
+    "mail": "arinisana@yahoo.com",
+    "lat": 47.9028949,
+    "lon": 23.9187564
+  },
+  {
+    "name": "AUTO ALEX SRL",
+    "address": "Sos. Nicolae Titulescu nr. 2,Moldova Noua",
+    "phone": "0730166115",
+    "mail": "office@autoalex.ro",
+    "lat": 44.7252044,
+    "lon": 21.6245948
+  },
+  {
+    "name": "AUTOCOMPANY MONTANA SRL",
+    "address": "Str. Marasesti, Nr. 8,Câmpeni",
+    "phone": "0745 210 852",
+    "mail": "autocompanymontana.facturi@gmail.com",
+    "lat": 46.3598930,
+    "lon": 23.0454410
+  },
+  {
+    "name": "ARABESQUE SRL Bacău",
+    "address": "Calea Moinești, Nr. 30 H, Bacău",
+    "phone": "0745 340 252",
+    "email": "CHIMICE.BC@ARABESQUE.RO",
+    "lat": 46.5811000,
+    "lon": 26.8776000
+  },
+  {
+    "name": "AUTOMOZAIC SRL",
+    "address": "Str. De Mijloc Nr. 68E,Brasov",
+    "phone": "0745-818821",
+    "email": "automozaic.2003@yahoo.com",
+    "lat": 45.6565372,
+    "lon": 25.5852325
+  },
+  {
+    "name": "AXEL&CO IMPORT EXPORT SRL",
+    "address": "Str. Petre Ionel nr.151,Branesti",
+    "phone": "0730 092 732",
+    "email": "axelcoimpex94@yahoo.com",
+    "lat": 44.4555694,
+    "lon": 26.3390704
+  },
+  {
+    "name": "B & T TRAISTARU SRL",
+    "address": "Str. Vânatorilor Nr. 136,Magura",
+    "phone": "40745895412",
+    "email": "symstyle2010@yahoo.com",
+    "lat": 45.5245201,
+    "lon": 25.2967278
+  },
+  {
+    "name": "BAUSTOFF + METALL SRL",
+    "address": "Str. Gladiolelor,Clinceni",
+    "phone": "0725 555 512",
+    "email": "a.simion@baustoff-metall.com",
+    "lat": 44.3990640,
+    "lon": 26.0183776
+  },
+  {
+    "name": "BIT INDUSTRIES SRL",
+    "address": "Str. Soveja Nr. 7-9,Constanta",
+    "phone": "0722 543 334",
+    "email": "office@bcdinternet.ro",
+    "lat": 44.2041450,
+    "lon": 28.6428700
+  },
+  {
+    "name": "BRICK DISTRIBUTION SYSTEMS SRL",
+    "address": "Str Bucuresti -Pitesti ,Fagetelu",
+    "phone": "0757 996 382",
+    "email": "brick.distribution@gmail.com"
+  },
+  {
+    "name": "BUILDING INVEST SRL",
+    "address": "Str. Principala Nr. 487,Ernei",
+    "phone": "0745.253.063",
+    "email": "building.invest94@yahoo.com",
+    "lat": 46.5811000,
+    "lon": 26.8776000
+  },
+  {
+    "name": "C D N GROUP SRL",
+    "address": "Str. Mihai Viteazul Nr. 16 A,Radauti",
+    "phone": "",
+    "email": "alexandru@cdngroup.ro",
+    "lat": 47.8350890,
+    "lon": 25.9218320
+  },
+  {
+    "name": "CAMI COMEXIM SRL",
+    "address": "Str. Automizarii  Nr.23,Bucuresti",
+    "phone": "0722 627 288",
+    "email": "alina@camicomexim.ro",
+    "lat": 44.4566952,
+    "lon": 26.1311370
+  },
+   {
+    "name": "CAS TRADING SRL",
+    "address": "Str. Piata Unirii Nr. 22A,Seini",
+    "phone": "0751 097 115",
+    "email": "castrading@yahoo.com",
+    "lat": 47.7497609,
+    "lon": 23.2804454
+  },
+  {
+    "name": "CLAR IMPORT EXPORT SRL",
+    "address": "Str. Câmpina Nr 51-53,Cluj-Napoca",
+    "phone": "0731 840 331",
+    "email": "aprovizionare@clarconstruct.ro",
+    "lat": 46.7890299,
+    "lon": 23.6261879
+  },
+  {
+    "name": "CLEMANS SRL",
+    "address": "Str. Mierlusesti Nr. 18,Bascov",
+    "phone": "0722 260 396",
+    "mail": "office@clemans.ro",
+    "lat": 44.8977987,
+    "lon": 24.8398971
+  },
+  {
+    "name": "COLOMADE CONSTRUCT SRL",
+    "address": "Str. Mihai Viteazul Nr. 190,Vama Buzaului",
+    "phone": "(0766) 597 907",
+    "email": "colomadeconstruct@yahoo.com",
+    "lat": 44.9725074,
+    "lon": 26.0964453
+  },
+  {
+    "name": "COM PRIVIGHETOAREA SRL",
+    "address": "Str. Jirlau Nr. 59,Scurtesti",
+    "phone": "0740 049 953",
+    "email": "privighetoareacom@yahoo.com",
+    "lat": 45.3681611,
+    "lon": 27.0512917
+  },
+  {
+    "name": "COMPACT PRODIMPEX SRL",
+    "address": "Sos. Mihai Bravu Nr. 311-313,Bucuresti",
+    "phone": "0744 624 909",
+    "email": "compact.rigips1995@gmail.com",
+    "lat": 44.4185220,
+    "lon": 26.1361920
+  },
+  {
+    "name": "CON ELVI SRL",
+    "address": "Str. Sucevei Nr. 14,Bosanci",
+    "phone": "0741 390 289",
+    "email": "conelvi@yahoo.com",
+    "lat": 47.5895507,
+    "lon": 26.3173304
+  },
+  {
+    "name": "CONCEPT CONSTRUCT SRL",
+    "address": "Str. Ciresului Nr.22-24,Bals",
+    "phone": "0722 766 111",
+    "email": "office@conceptgroup.ro",
+    "lat": 44.3532449,
+    "lon": 24.0990121
+  },
+  {
+    "name": "CONSTRUCT - PHOENIX SRL",
+    "address": "Str. Principala, Nr. 1427,Moisei",
+    "phone": "0744 501 014",
+    "email": "constructphoenix@yahoo.com",
+    "lat": 47.6554078,
+    "lon": 24.5412370
+  },
+  {
+    "name": "CONSTRUCT FELIX SRL",
+    "address": "Str Pricipala nr 87,Hartiesti",
+    "phone": "0744 495 342",
+    "email": "nicolae.felix73@yahoo.com",
+    "lat": 45.6856161,
+    "lon": 24.5082318
+  },
+  {
+    "name": "CONSTRUCTII COMERT ILCOM SRL",
+    "address": "Str. Morii Nr. 220,Ilieni",
+    "phone": "0264 347 617",
+    "email": "csakany@ilcom.eu",
+    "lat": 45.7931141,
+    "lon": 25.7702931
+  },
+  {
+    "name": "CUBIX MARKET SRL",
+    "address": "Bld. Voluntari nr.88,Voluntari",
+    "phone": "0723 302 832",
+    "email": "cubixmarket@yahoo.com",
+    "lat": 44.4912975,
+    "lon": 26.19000681
+  },
+  {
+    "name": "CUSTOM CONCEPT MDA SRL",
+    "address": "Sacalaz Nr. 728/C",
+    "phone": "0722 861 009",
+    "email": "adriana.dobriceanu@customconcept.ro",
+    "lat": 45.7603639,
+    "lon": 21.1108836
+  },
+  {
+    "name": "DAC PREFABRICATE SRL",
+    "address": "Str. Principala Nr. 117,Sard",
+    "phone": "0757.219.364",
+    "email": "crisan_cipri@yahoo.com",
+    "lat": 45.9431610,
+    "lon": 24.9667600
+  },
+  {
+    "name": "DAM-LTD SRL",
+    "address": "Hurezani, Str. Principala",
+    "phone": "0752 301 671",
+    "email": "stefan.diculescu@yahoo.com",
+    "lat": 44.8512611,
+    "lon": 23.6068468
+  },
+  {
+    "name": "DANDORI COMIMPEX SRL",
+    "address": "Cordau Nr. 27A",
+    "phone": "0743 653 792",
+    "email": "dandoricomimpex@yahoo.com",
+    "lat": 46.9680447,
+    "lon": 21.9731645
+  },
+  {
+    "name": "DANEMAR SRL",
+    "address": "Str. Morii Nr. 26,Ardud",
+    "phone": "0742 112 185",
+    "email": "scdanemar@yahoo.com",
+    "lat": 47.6351232,
+    "lon": 22.8841991
+  },
+  {
+    "name": "DAN-ROX SRL",
+    "address": "Str. Moldoveni Nr. 28 A,Borsa",
+    "phone": "(0744) 196 478",
+    "email": "mihaela.danrox@gmail.com",
+    "lat": 47.6537683,
+    "lon": 24.6631517
+  },
+  {
+    "name": "DARMIDICOM DMD SRL",
+    "address": "Str. Principala Nr. 237,Hurezani",
+    "phone": "0752 301 671",
+    "email": "stefan.diculescu@yahoo.com",
+    "lat": 46.2229213,
+    "lon": 24.6881913
+  },
+  {
+    "name": "DEDAL EDIL CONSTRUCT SRL",
+    "address": "Str. Dr. Savini Nr. 8,Iasi",
+    "phone": "0735 838 667",
+    "email": "dedaledilconstruct@yahoo.com",
+    "lat": 47.1608185,
+    "lon": 27.6141920
+  },
+  {
+    "name": "DEIANA BEST IMOBIL SRL",
+    "address": "Nr. 198,Lechinta",
+    "phone": "0744 804 411",
+    "email": "deianadepozit@gmail.com",
+    "lat": 47.0212184,
+    "lon": 24.3372165
+  },
+  {
+    "name": "DEMOS INTERMED SRL",
+    "address": "Str. Locotenent Moga nr.18,Bucuresti",
+    "phone": "0758 020 894",
+    "email": "demosdepozit@gmail.com",
+    "lat": 44.4594805,
+    "lon": 26.1597370
+  },
+  {
+    "name": "DEPALMUR SRL",
+    "address": "Str. Unirii, Nr. 44,Deda",
+    "phone": "0741-139831",
+    "email": "depalmur@yahoo.com",
+    "lat": 46.9486509,
+    "lon": 24.8752160
+  },
+  {
+    "name": "DEPO MARKET SRL",
+    "address": "Str. Iuliu Maniu nr.5A,Blaj",
+    "phone": "(0785) 250 084",
+    "email": "depomarketblaj@gmail.com",
+    "lat": 46.1714921,
+    "lon": 23.9220279
+  },
+  {
+    "name": "DEPOSTRUCT SRL",
+    "address": "Str. Pleveni Nr. 76,Cluj-Napoca",
+    "phone": "0749 017 775",
+    "email": "depostruct@yahoo.com",
+    "lat": 46.7870367,
+    "lon": 23.6347488
+  },
+  {
+    "name": "DEPOZITU NR2 SRL",
+    "address": "Bognos",
+    "phone": "0762 295 769",
+    "email": "oanceadepozit@yahoo.com",
+    "lat": 47.2066699,
+    "lon": 27.4309984
+  },
+  {
+    "name": "DEPOZITUL DE POLISTIREN SRL",
+    "address": "B-dul George Cosbuc Nr. 223A,Galati",
+    "phone": "0752 929 620",
+    "email": "office@depozituldepolistiren.ro",
+    "lat": 45.4473079,
+    "lon": 28.0349675
+  },
+  {
+    "name": "DMC ADECRIS SRL",
+    "address": "Cernesti Nr. 165 B",
+    "phone": "(0762) 266 686",
+    "email": "office.dmc@yahoo.com",
+    "lat": 47.5097803,
+    "lon": 23.7402970
+  },
+  {
+    "name": "DUMI - SERV SRL",
+    "address": "Sos. Alexandriei Nr.288,Bragadiru",
+    "phone": "0722 508 044",
+    "email": "dumiserv@gmail.com",
+    "lat": 44.3829212,
+    "lon": 25.9914736
+  },
+  {
+    "name": "EURAS SRL",
+    "address": "Str. Sanatatii Nr. 7,Deva",
+    "phone": "40740975331",
+    "email": "euras.romania@yahoo.com",
+    "lat": 45.8662574,
+    "lon": 22.9143737
+  },
+  {
+    "name": "EXPERT BOTIZ SRL",
+    "address": "Ruscova, Nr. 345 A",
+    "phone": "0720 229 852",
+    "email": "mihaibotiz23@yahoo.com",
+    "lat": 47.7956241,
+    "lon": 24.2912086
+  },
+  {
+    "name": "FEBONI SRL",
+    "address": "Str. Principala Nr. 431,Utvin",
+    "phone": "0722193971",
+    "email": "ghita.fernea@ceradez.ro",
+    "lat": 45.7140315,
+    "lon": 21.0862502
+  },
+  {
+    "name": "FEROMAT CONSTRUCT SRL",
+    "address": "Str. Clujului Nr. 72,Teius",
+    "phone": "0742 704 426",
+    "email": "feromat_construct@yahoo.com",
+    "lat": 46.2051271,
+    "lon": 23.6728478
+  },
+  {
+    "name": "FIVE-HOLDING SA",
+    "address": "Str. Tulcei,Ovidiu",
+    "phone": "0720 727 724",
+    "email": "doina.popa@five-brick.ro",
+    "lat": 44.2000082,
+    "lon": 28.6194815
+  },
+  {
+    "name": "FORMACONS SRL",
+    "address": "Str Principala Nr. 520,Blejoi",
+    "phone": "0746 257 432",
+    "email": "formacons@yahoo.com",
+    "lat": 46.2207061,
+    "lon": 24.7107638
+  },
+  {
+    "name": "GALACTIC LINES SRL",
+    "address": "Str. Calea Chisinaului Nr. 29,Iasi",
+    "phone": "0744 822 792",
+    "email": "galactic4u@yahoo.com",
+    "lat": 47.1460837,
+    "lon": 27.6186777
+  },
+  {
+    "name": "GENERAL CONSTRUCT SRL",
+    "address": "Str. Promenadei Nr. 10,Suceava",
+    "phone": "0729 155 674",
+    "email": "bogdan.pascaru@generalconstruct.ro",
+    "lat": 47.6558281,
+    "lon": 26.2664769
+  },
+  {
+    "name": "GEOSAW SRL",
+    "address": "Str. Scânteii Nr. 973,Cajvana",
+    "phone": "0755 210 855",
+    "email": "geo.saw.cj@gmail.com",
+    "lat": 47.7019688,
+    "lon": 25.9641186
+  },
+  {
+    "name": "GLOBAL ROMEX SRL",
+    "address": "Nr. 26, Paulesti",
+    "phone": "",
+    "email": "global.romex@gmail.com",
+    "lat": 45.0014594,
+    "lon": 25.9616923
+  },
+  {
+    "name": "GOPO SRL",
+    "address": "Str. Catedralei Nr. 2,Târgoviste",
+    "phone": "0790 674 311",
+    "email": "larisa@gop.ro",
+    "lat": 44.9174930,
+    "lon": 25.4721680
+  },
+  {
+    "name": "GREC SRL",
+    "address": "Str. Microraion Vest Nr. 23,Baia Sprie",
+    "phone": "0753 037 445",
+    "email": "grec.construct@gmail.com",
+    "lat": 47.6647086,
+    "lon": 23.6748583
+  },
+  {
+    "name": "GREENADEL PROD SRL",
+    "address": "Str. Sf. Ilie Nr. 44,Turceni",
+    "phone": "0785 227 720",
+    "email": "greenadel.prod@yahoo.com",
+    "lat": 44.6740760,
+    "lon": 23.3741990
+  },
+  {
+    "name": "HELP TRANS SRL",
+    "address": "Str. Timisorii Nr. 1,Oravita",
+    "phone": "0725 251 065",
+    "email": "helptransro@yahoo.com",
+    "lat": 45.6910820,
+    "lon": 21.9028165
+  },
+  {
+    "name": "HEVATEX COM SRL",
+    "address": "Str. Slt. Gheorghe Barboi,Târgu Jiu",
+    "phone": "0744 560 709",
+    "email": "hevatex@yahoo.com",
+    "lat": 45.0298694,
+    "lon": 23.2778048
+  },
+  {
+    "name": "IMPERIUM DESIGN CONSTRUCT SRL",
+    "address": "Str. Eroilor Nr. 4,Târgovi?te",
+    "phone": "0734 425 989",
+    "email": "imperiumdc@gmail.com",
+    "lat": 44.9390770,
+    "lon": 25.4431620
+  },
+   {
+    "name": "INTERCONSTRUCT SRL",
+    "address": "Str. Viilor 1-3,Alexandria",
+    "phone": "",
+    "email": "dan.puiu@realdeco.ro",
+    "lat": 43.9750572,
+    "lon": 25.3282579
+  },
+   {
+    "name": "JAMEL SPEED SRL",
+    "address": "Str. Martin Luther Nr.110,Sacele",
+    "phone": "(0744) 113 878",
+    "email": "vajda_melinda@yahoo.com",
+    "lat": 45.6118817,
+    "lon": 25.7317695
+  },
+  {
+    "name": "L  M DISTRIBCONS SRL",
+    "address": "Str. Amurgului Nr. 1,Timisoara",
+    "phone": "0722425326",
+    "email": "semsurconstruct@yahoo.com",
+    "lat": 45.7702028,
+    "lon": 21.2268840
+  },
+   {
+    "name": "LEON SMARTINVEST SRL",
+    "address": "Str. Teilor Nr. 3,Prisaca Dornei",
+    "phone": "",
+    "email": "adrian.doroftei@bucovinaimobiliare.ro",
+    "lat": 47.5402994,
+    "lon": 25.6579087
+  },
+   {
+    "name": "LEVIS COM SRL",
+    "address": "Str. Morii Nr. 19,Sarmasag",
+    "phone": "0742 137 359",
+    "email": "leviscom1996@yahoo.com",
+    "lat": 47.3442417,
+    "lon": 22.8256032
+  },
+  {
+    "name": "LINEST GRUP SRL",
+    "address": "Nr. 180 Bis ,Olteni",
+    "phone": "0742 224 310",
+    "email": "office.carolin@yahoo.com",
+    "lat": 44.1794921,
+    "lon": 25.2970998
+  },
+  {
+    "name": "LUDMIN SRL",
+    "address": "Str. Prof. Petru Olteanu Nr. 47A,Tomesti",
+    "phone": "0232 222 555",
+    "email": "ludmin@yahoo.com",
+    "lat": 47.1218650,
+    "lon": 27.7065860
+  },
+  {
+    "name": "MAMACU SRL",
+    "address": "Str. Eternitatii Nr. 14,Malu Spart",
+    "phone": "0724 351 318",
+    "email": "mamacusrl@yahoo.com",
+    "lat": 44.4345593,
+    "lon": 25.7235535
+  },
+  {
+    "name": "MARCMARY SRL",
+    "address": "Str. Alexandru Ioan Cuza Nr. 180,Buruienesti",
+    "phone": "0768 314 804",
+    "email": "marcmary@gmail.com",
+    "lat": 47.0066869,
+    "lon": 26.9731007
+  },
+  {
+    "name": "MARINEX CONSTRUCT CNM SRL",
+    "address": "Str. Gheorghe Doja Nr. 135 B,Suceava",
+    "phone": "0756 591 850",
+    "email": "marinex.construct@gmail.com",
+    "lat": 47.6753525,
+    "lon": 26.2686887
+  },
+  {
+    "name": "MASTER CONSTRUCT SHOP SRL",
+    "address": "Nr. 456 A,Dumbrava",
+    "phone": "0726 195 797",
+    "mail": "shop@hidroizolatii-fatade.ro",
+    "lat": 45.8231008,
+    "lon": 22.1168143
+  },
+  {
+    "name": "MIRADA CONSTRUCT SRL",
+    "address": "Soseaua de Centura,Arad",
+    "phone": "0357434905",
+    "email": "dan@mirada.ro",
+    "lat": 46.1865606,
+    "lon": 21.3122677
+  },
+  {
+    "name": "MIRON FATADE CONSTRUCT SRL",
+    "address": "Str. Mihai Viteazu nr. 597,Ipotesti",
+    "phone": "0748 125 871",
+    "email": "mironfatadeconstruct2004@gmail.com",
+    "lat": 47.6277417,
+    "lon": 26.2919642
+  },
+  {
+    "name": "MIRTON INVESTMENT SRL",
+    "address": "Sos.Vladiceasca nr 10, Vladisceasca",
+    "phone": "(0743) 125 448",
+    "email": "vanzari.mirtoninvest@gmail.com",
+    "lat": 44.7109367,
+    "lon": 26.1735743
+  },
+  {
+    "name": "MITKO BRICOLAJE SRL",
+    "address": "Str. Nicolae Grigorescu Nr. 91,Titu",
+    "phone": "0734 790 794",
+    "email": "mitkobricolaje@gmail.com",
+    "lat": 44.6487249,
+    "lon": 25.5726465
+  },
+  {
+    "name": "MOBIL TEHNO COM SRL",
+    "address": "Str. Gradistei Nr. 1A,Orastie",
+    "phone": "(0722) 491 816",
+    "email": "ovidiuciuflea@yahoo.com",
+    "lat": 45.8357520,
+    "lon": 23.1991370
+  },
+   {
+    "name": "MULTICOM S.R.L.",
+    "address": "Bulevardul Mihai Viteazul Nr. 58 C,Zalau",
+    "phone": "0751 287 242",
+    "email": "multicom_zalau@yahoo.com",
+    "lat": 47.2020970,
+    "lon": 23.0542914
+  },
+  {
+    "name": "NEWEXCO DISTRIBUTION SRL",
+    "address": "Str. Interioara Nr. 3-17,Constanta",
+    "phone": "0755 044 453",
+    "email": "newexco@gmail.com",
+    "lat": 44.1802759,
+    "lon": 28.6019052
+  },
+  {
+    "name": "NITE CONSTRUCT ADRIANO SRL",
+    "address": "Str. Principala Nr. 31,Varzaroaia",
+    "phone": "0755 018 980",
+    "email": "niteconstruct@gmail.com",
+    "lat": 45.0786546,
+    "lon": 24.8659465
+  },
+  {
+    "name": "NIVRONA IMPEX SRL",
+    "address": "Str. Ana Ipatescu, Nr. 39,Târgu Jiu",
+    "phone": "0744 99 4940",
+    "email": "veronicauntaru@yahoo.com",
+    "lat": 45.0309543,
+    "lon": 23.2824560
+  },
+  {
+    "name": "OREX IMPORT EXPORT SRL",
+    "address": "Str. Lunca Oltului Nr. 16,Sfântu Gheorghe",
+    "phone": "0748.223.844",
+    "email": "comercial@orex.ro",
+    "lat": 45.8705044,
+    "lon": 25.8011024
+  },
+  {
+    "name": "OREX IMPORT EXPORT SRL",
+    "address": "Str. Stefan Cel Mare Nr. ,Covasna",
+    "phone": "0267340020",
+    "email": "covasna@orex.ro",
+    "lat": 45.8402888,
+    "lon": 26.1462569
+  },
+  {
+    "name": "OREX IMPORT EXPORT SRL",
+    "address": "Str. Soarelui Nr. 20, Targu Secuiesc",
+    "phone": "0267340020",
+    "email": "tg.secuiesc@orex.ro",
+    "lat": 45.9946581,
+    "lon": 26.1393103
+  },
+   {
+    "name": "OREX IMPORT EXPORT SRL",
+    "address": "Str. Principala, Varghis",
+    "phone": "0267340020",
+    "email": "lajos.benko@orex.ro",
+    "lat": 44.8406216,
+    "lon": 25.8279401
+  },
+  {
+    "name": "PACOSIN PROD SRL",
+    "address": "Str. Principala FN,Bibesti",
+    "phone": "0785 529 940",
+    "email": "pacosin1999@yahoo.com",
+    "lat": 44.7815366,
+    "lon": 23.4907078
+  },
+  {
+    "name": "PALMIRA IMPEX SRL",
+    "address": "Str. Eliberarii nr.59,Halmeu",
+    "phone": "0740 057 237",
+    "email": "geanina_bene@yahoo.com",
+    "lat": 47.9799496,
+    "lon": 23.0132565
+  },
+   {
+    "name": "PLATFORMA MARIO",
+    "address": "Nr. 470,Bobu",
+    "phone": "0767 257 272",
+    "email": "stefan.marian62@yahoo.com",
+    "lat": 45.0345680,
+    "lon": 23.5106048
+  },
+  {
+    "name": "PRO STRATEGY CONSTRUCTION SRL",
+    "address": "Str. Toma Georgescu Nr. 7A,Târgoviste",
+    "phone": "",
+    "email": "tehnic@psc-ro.ro",
+    "lat": 44.9118218,
+    "lon": 25.4558274
+  },
+  {
+    "name": "PROFIMAT CONSTRUCT SRL",
+    "address": "Str. Tautiului Nr. 15 A,Cluj-Napoca",
+    "phone": "0751 166 389",
+    "email": "remus.profimat@gmail.com",
+    "lat": 46.7428961,
+    "lon": 23.5008209
+  },
+   {
+    "name": "PROGOPO IMPEX SRL",
+    "address": "Calea Craiovei Nr. 122,Craiova",
+    "phone": "0749 040 438",
+    "email": "facturare@progopo.ro",
+    "lat": 44.3824199,
+    "lon": 23.7790560
+  },
+  {
+    "name": "RARES CONSTRUCT KRONSTADT SRL",
+    "address": "B-dul Grivitei Nr. A42,Brasov",
+    "phone": "(0745) 999 593",
+    "email": "cosmin.cornea@raresconstruct.ro",
+    "lat": 45.6743537,
+    "lon": 25.5882427
+  },
+  {
+    "name": "RARES CONSTRUCT SRL",
+    "address": "Str. JINA Nr.3A,Sibiu",
+    "phone": "0756079272",
+    "email": "info@vopselelavabile.com",
+    "lat": 45.7817058,
+    "lon": 24.1362582
+  },
+   {
+    "name": "RAVAGO ROM SRL",
+    "address": "Sos. Odai nr.283-285,Bucuresti",
+    "phone": "0724 224 604",
+    "email": "georgiana.lecu@ravago.com",
+    "lat": 44.5212328,
+    "lon": 26.0281230
+  },
+  {
+    "name": "REMBKA SRL",
+    "address": "Calea Buziasului Nr. 85,Caransebes",
+    "phone": "0731832943",
+    "email": "toma.brabete@rembka.ro",
+    "lat": 45.4136190,
+    "lon": 22.2218641
+  },
+  {
+    "name": "ROMY INVESTION SRL",
+    "address": "Calea Bucuresti Nr. 2 B,Topoloveni",
+    "phone": "0732 621 551",
+    "email": "romy_investion@yahoo.com",
+    "lat": 44.8142453,
+    "lon": 25.0691301
+  },
+  {
+    "name": "RUSTRANS SRL",
+    "address": "Str. Magnoliilor Nr.1,Blagesti",
+    "phone": "0743 700 298",
+    "email": "marketing@rustrans.ro",
+    "lat": 46.6578217,
+    "lon": 26.8009202
+  },
+  {
+    "name": "S & L TRUST CONSTRUCT SRL",
+    "address": "Soseaua Bucuresti - Târgoviste Nr. 688A,Crevedia",
+    "phone": "0738 770 950",
+    "email": "achizitii@bilden.ro",
+    "lat": 44.5880518,
+    "lon": 25.9305805
+  },
+   {
+    "name": "SIC TOTAL BAU S.R.L. Sovata",
+    "address": "Str. Praidului nr 94, Sovata",
+    "phone": "0744 591 950",
+    "email": "sictotalbau@gmail.com",
+    "lat": 46.5769130,
+    "lon": 25.0722520
+  },
+  {
+    "name": "SIC TOTAL BAU S.R.L. Miercurea Ciuc",
+    "address": "Bld. Timisoarei Nr. 33, Miercurea Ciuc",
+    "phone": "0744 388 308",
+    "email": "sictotalbau@gmail.com",
+    "lat": 46.3629390,
+    "lon": 25.8014230
+  },
+   {
+    "name": "SIC TOTAL BAU S.R.L. Ghelinta",
+    "address": "Str. Principala Nr. 875,Ghelinta",
+    "phone": "0748-240644",
+    "email": "mihaly.ervin@yahoo.com",
+    "lat": 46.2208337,
+    "lon": 24.7115270
+  },
+  {
+    "name": "SXN IUSCONSTRUCT SRL",
+    "address": "Str. Sfântul Ioan Nr. 1A,Iasi",
+    "phone": "0755 596 426",
+    "email": "office.sxn@gmail.com",
+    "lat": 47.1516652,
+    "lon": 27.6419178
+  },
+  {
+    "name": "SYRANO CONSTRUCT SRL",
+    "address": "Str. Mircea cel Batrân Nr. 2 B,Baicoi",
+    "phone": "0747 034 357",
+    "email": "syranoconstruct@yahoo.com",
+    "lat": 45.0379137,
+    "lon": 25.8438028
+  },
+   {
+    "name": "TENC OLTENIA SRL",
+    "address": "Centura de Nord,Craiova",
+    "phone": "0752 077 798",
+    "email": "tencolteniaprofesional@gmai.com",
+    "lat": 44.3493994,
+    "lon": 23.7971793
+  },
+  {
+    "name": "TERMOCONSTRUCT SRL",
+    "address": "Aleea Gugu Nr. 1A,Resita",
+    "phone": "0744.867.853",
+    "email": "lavinia.udroiu@termoconstruct.com",
+    "lat": 45.3320840,
+    "lon": 21.8726738
+  },
+   {
+    "name": "TOADERCRIS SRL",
+    "address": "Str. Fizes Nr. 42,Baita",
+    "phone": "0727.740.522",
+    "email": "teo_mihaila_08@yahoo.com",
+    "lat": 45.9963980,
+    "lon": 22.8822384
+  },
+  {
+    "name": "TOGIAL SRL",
+    "address": "Nr. 971,Amarastii de Jos",
+    "phone": "0766 109 746",
+    "email": "radumariaalexandra06@yahoo.com",
+    "lat": 43.9552255,
+    "lon": 24.1641956
+  },
+  {
+    "name": "TOMIS SRL",
+    "address": "Str. Mioritei Nr. 145,Botiz",
+    "phone": "0261 774 313",
+    "email": "tomissrl@yahoo.com",
+    "lat": 47.8201426,
+    "lon": 22.9367649
+  },
+  {
+    "name": "TRANS-ANAPET SRL",
+    "address": "Centura Iasi Nr. 128,Voinesti",
+    "phone": "0723 699 130",
+    "email": "transanapet@yahoo.com",
+    "lat": 47.1491364,
+    "lon": 27.5209305
+  },
+  {
+    "name": "TT  CO SOLARIA GRUP SRL",
+    "address": "Str. Trandafirilor nr.35,Giroc",
+    "phone": "0732536550",
+    "email": "solariagrup@gmail.com",
+    "lat": 45.6902502,
+    "lon": 21.2381247
+  },
+  {
+    "name": "UNIVERSAL EURO BUILD SRL",
+    "address": "Str. Partizanilor nr.45 C,Simleu Silvaniei",
+    "phone": "0757 571 263",
+    "email": "d.zalau@eurouniversal.ro",
+    "lat": 47.2311659,
+    "lon": 22.7843253
+  },
+  {
+    "name": "UTIL CASA BIACRIS SRL",
+    "address": "Str. Bogdan Voda 98D,Borsa",
+    "phone": "0737 564 145",
+    "email": "artgarden75@yahoo.com",
+    "lat": 47.6584237,
+    "lon": 24.6263159
+  },
+   {
+    "name": "V.D.T. CONSTRUCT IMPEX SRL",
+    "address": "Str Cumpenei Nr. 27 B,Constanta",
+    "phone": "0241 557 568",
+    "email": "facturare@vdtconstruct.ro",
+    "lat": 44.1642398,
+    "lon": 28.6063734
+  },
+  {
+    "name": "MIHAI CONS MAN",
+    "address": "Str.Victoriei nr.143,Negresti Oas",
+    "phone": "0742 806 066",
+    "email": "mihaiconsmanmihaiconsman@yahoo.com",
+    "lat": 47.8775705,
+    "lon": 23.4289439
+  }
+]
